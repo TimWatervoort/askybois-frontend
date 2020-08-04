@@ -16,7 +16,8 @@
 }
 
 .ask-bq-body {
-  background-color: grey;
+  color: white;
+  background-image: url('./assets/question-mark.jpg');
 }
 
 .ask-bq-heading {
@@ -28,8 +29,24 @@
   font-size: 2em;
   font-family: 'Montserrat', sans-serif;
 }
+
 .ask-bq-points {
   font-size: 2em;
   font-family: 'Oswald', sans-serif;
   color: #a3a3a3;
+}
+
+.ask-scores-btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5em !important;
+  width: 33%;
+}
+
+.ask-navbar-brand {
+  font-family: 'Lobster', cursive;
+  font-size: 1.75em;
+}
+
+.ask-navbar-brand:hover {
+  text-decoration: none;
 }
