@@ -1,7 +1,15 @@
 import React from 'react';
 import BonusQuestion from 'components/BonusQuestion';
+import ShortScores from 'components/ShortScores';
 
 const Home = props => {
+
+  const scores = [
+    { name: 'Ben', rank: 1, score: 73 },
+    { name: 'Alison', rank: 2, score: 60.5},
+    { name: 'I wanna throw Tom Cruise into a volcano', rank: 3, score: 58 }
+  ]
+
   return (
     <div className='container-fluid text-center mt-5'>
       <div className='row'>
@@ -12,6 +20,7 @@ const Home = props => {
         </div>
       </div>
       <BonusQuestion />
+      <ShortScores scores={ scores } />
     </div>
   )
 }
