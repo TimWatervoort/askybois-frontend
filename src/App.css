@@ -1,38 +1,30 @@
-.App {
-  text-align: center;
+.ask-header {
+  font-family: 'Lobster', cursive;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.ask-nav {
+  font-family: 'Oswald', sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.ask-text {
+  font-family: 'Montserrat', sans-serif;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.ask-greeting {
+  font-family: 'Lobster', cursive;
+  font-size: 5em;
 }
 
-.App-link {
-  color: #61dafb;
+.ask-bq-body {
+  background-color: grey;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.ask-bq-heading {
+  font-size: 2em;
+  font-family: 'Oswald', sans-serif;
+}
+
+.ask-bq-question {
+  font-size: 2em;
+  font-family: 'Montserrat', sans-serif;
 }
