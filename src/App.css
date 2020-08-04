@@ -39,7 +39,7 @@
 .ask-scores-btn {
   font-family: 'Oswald', sans-serif;
   font-size: 1.5em !important;
-  width: 33%;
+  min-width: 40%;
 }
 
 .ask-navbar-brand {
