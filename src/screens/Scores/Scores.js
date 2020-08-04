@@ -8,7 +8,7 @@ const Scores = props => {
   const [mode, setMode] = useState('lastTime');
 
   return (
-    <div className='container'>
+    <div className='container-fluid text-center'>
       <div className='row my-5'>
         <div className='col'>
           <h1 className='ask-nav'>SCORES</h1>
