@@ -14,6 +14,7 @@ const Navbar = props => {
         <ul className={`${isOpen ? 'pt-3' : ''} navbar-nav mr-auto`}>
           <li className='nav-item ml-5'><Link to='/' className='ask-nav text-white'><h3>HOME</h3></Link></li>
           <li className='nav-item ml-5'><Link to='/scores' className='ask-nav text-white'><h3>SCORES</h3></Link></li>
+          <li className='nav-item ml-5'><Link to='/rules' className='ask-nav text-white'><h3>RULES</h3></Link></li>
         </ul>
       </div>
     </nav>

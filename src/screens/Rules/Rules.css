@@ -1,0 +1,48 @@
+.ask-alphabois {
+  font-family: 'Courier New', monospace;
+  color: #830dde;
+}
+
+.ask-choosybois {
+  font-family: 'Corsiva', cursive;
+  color: rgb(147,196,125);
+}
+
+.ask-blankibois {
+  font-family: 'Maven Pro', sans-serif;
+  color: rgb(61,133,198);
+}
+
+.ask-lookybois {
+  font-family: 'Impact', sans-serif;
+  color: rgb(241,194,50);
+}
+
+.ask-buildybois {
+  font-family: 'Caveat', cursive;
+  color: rgb(204,0,0);
+}
+
+.ask-truthybois {
+  font-family: 'Amatic SC', cursive;
+  color: rgb(0,255,255);
+}
+
+.ask-torturebois {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: rgb(255,255,0);
+}
+
+.ask-auditobois {
+  font-family: 'Pacifico', cursive;
+  color: rgb(255,0,255);
+}
+
+.ask-darkest-hour {
+  font-family: 'Oswald', sans-serif;
+  color: rgb(102,102,102);
+}
+
+.ask-darkest-hour-bg {
+  background-color: rgb(48,56,60);
+}

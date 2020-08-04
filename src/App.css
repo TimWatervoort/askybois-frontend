@@ -50,3 +50,31 @@
 .ask-navbar-brand:hover {
   text-decoration: none;
 }
+
+.ask-rounds-bg {
+  background-color: rgb(55, 71, 79);
+}
+
+.ask-pain {
+  font-size: 2em;
+  color: #f5e614;
+  font-family: 'Oswald', sans-serif;
+}
+
+.ask-suffering {
+  font-size: 2em;
+  color: #f59714;
+  font-family: 'Oswald', sans-serif;
+}
+
+.ask-torment {
+  font-size: 2em;
+  color: #c9110e;
+  font-family: 'Oswald', sans-serif;
+}
+
+.ask-category {
+  font-size: 2em;
+  color: #4f4f4f;
+  font-family: 'Oswald', sans-serif;
+}
