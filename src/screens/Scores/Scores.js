@@ -22,8 +22,8 @@ const Scores = props => {
           <button onClick={() => setMode('wins')} className='btn btn-dark ask-scores-btn'>Wins</button>
         </div>
       </div>
-      { mode === 'lastTime' && <LastTimeScores scores={ scores }/> }
-      { mode === 'wins' && <WinScores scores={ wins }/> }
+      { mode === 'lastTime' && <LastTimeScores scores={ scores.sort((x, y) => y.score - x.score) }/> }
+      { mode === 'wins' && <WinScores scores={ wins.sort((x, y) => y.wins - x.wins) }/> }
     </div>
   )
 }
