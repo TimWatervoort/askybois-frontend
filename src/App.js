@@ -5,6 +5,7 @@ import Home from 'screens/Home';
 import Scores from 'screens/Scores';
 import Rules from 'screens/Rules';
 import Contact from 'screens/Contact';
+import Vault from 'screens/Vault';
 import { Switch, Route } from 'react-router-dom';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Route path='/scores' component={ Scores } />
         <Route path='/rules' component={ Rules } />
         <Route path='/contact' component={ Contact } />
+        <Route path='/vault' component={ Vault } />
       </Switch>
     </div>
   );
