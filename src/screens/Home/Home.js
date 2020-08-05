@@ -3,10 +3,10 @@ import BonusQuestion from 'components/BonusQuestion';
 import ShortScores from 'components/ShortScores';
 import scores from 'util/scores';
 
-const Home = props => {
+const Home = ({ mode }) => {
 
   return (
-    <div className='container-fluid text-center mt-5'>
+    <div className={`container-fluid text-center pt-5 ${ mode === 'light' ? 'bg-white text-black' : 'ask-bg-dark text-white' }`}>
       <div className='row'>
         <div className='col'>
           <h1 className='ask-greeting'>Welcome to Askybois</h1>
@@ -15,7 +15,7 @@ const Home = props => {
         </div>
       </div>
       <BonusQuestion />
-      <ShortScores scores={ scores.slice(0,3) } />
+      <ShortScores mode={ mode } scores={ scores.slice(0,3) } />
     </div>
   )
 }

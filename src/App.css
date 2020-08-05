@@ -1,3 +1,11 @@
+.ask-bg-dark {
+  background-color: #2b2b2b;
+}
+
+.ask-bg-light {
+  background-color: 'white' !important;
+}
+
 .ask-header {
   font-family: 'Lobster', cursive;
 }

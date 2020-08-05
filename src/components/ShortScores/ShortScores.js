@@ -2,6 +2,9 @@ import React from 'react';
 import ScoreEntry from 'components/ScoreEntry';
 
 const ShortScores = props => {
+
+  const { mode } = props;
+
   return (
   <div className='container-fluid'>
     <div className='text-center row my-5'>
@@ -26,10 +29,10 @@ const ShortScores = props => {
       </div>
     </div>
 
-    <div className='row mb-2'>
+    <div className='row pb-2'>
       <div className='col'>
-        <div className='card'>
-          <div className='card-body p-0'>
+        <div className={`card ask-bg-${mode}`}>
+          <div className={`card-body p-0 ask-bg-${mode}`}>
             <div className='container-fluid'>
               <div className='row px-0 text-center'>
 

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './App.css';
 import Navbar from 'components/Navbar';
 import Home from 'screens/Home';
@@ -9,12 +9,15 @@ import Vault from 'screens/Vault';
 import { Switch, Route } from 'react-router-dom';
 
 function App() {
+
+  const [mode, setMode] = useState('light');
+
   return (
-    <div className="App">
-      <Navbar />
+    <div className={`ask-app-${mode}`}>
+      <Navbar mode={ mode } setMode={ setMode } />
 
       <Switch>
-        <Route exact path='/' component={ Home } />
+        <Route exact path='/'><Home mode={mode} /></Route>
         <Route path='/scores' component={ Scores } />
         <Route path='/rules' component={ Rules } />
         <Route path='/contact' component={ Contact } />
