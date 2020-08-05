@@ -4,10 +4,10 @@ import Categories from './Categories';
 import BonusRounds from './BonusRounds';
 import './Rules.css';
 
-const Rules = () => {
+const Rules = ({ mode }) => {
   return (
-    <div>
-      <div className='container mt-5'>
+    <div className={`ask-bg-${mode}`}>
+      <div className='container-fluid pt-5'>
         <div className='row text-center mb-5'>
           <div className='col'>
             <h1 className='ask-nav'>HOW IT WORKS</h1>

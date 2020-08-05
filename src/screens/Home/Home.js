@@ -6,7 +6,8 @@ import scores from 'util/scores';
 const Home = ({ mode }) => {
 
   return (
-    <div className={`container-fluid text-center pt-5 ${ mode === 'light' ? 'bg-white text-black' : 'ask-bg-dark text-white' }`}>
+  <div>
+    <div className={`container-fluid text-center pt-5 ask-bg-${mode}`}>
       <div className='row'>
         <div className='col'>
           <h1 className='ask-greeting'>Welcome to Askybois</h1>
@@ -15,8 +16,9 @@ const Home = ({ mode }) => {
         </div>
       </div>
       <BonusQuestion />
-      <ShortScores mode={ mode } scores={ scores.slice(0,3) } />
     </div>
+    <ShortScores mode={ mode } scores={ scores.slice(0,3) } />
+  </div>
   )
 }
 

@@ -8,10 +8,10 @@ import {
   randomCategories
  } from 'util/categories';
 
-const Vault = () => {
+const Vault = ({ mode }) => {
   return (
-    <div>
-      <div className='container-fluid my-5 text-center'>
+    <div className={`ask-bg-${mode}`}>
+      <div className='container-fluid py-5 text-center'>
         <div className='row'>
           <div className='col'>
             <h1 className='ask-nav'>VAULT</h1>

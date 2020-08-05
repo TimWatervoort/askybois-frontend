@@ -13,15 +13,15 @@ function App() {
   const [mode, setMode] = useState('light');
 
   return (
-    <div className={`ask-app-${mode}`}>
+    <div className='App'>
       <Navbar mode={ mode } setMode={ setMode } />
 
       <Switch>
         <Route exact path='/'><Home mode={mode} /></Route>
-        <Route path='/scores' component={ Scores } />
-        <Route path='/rules' component={ Rules } />
-        <Route path='/contact' component={ Contact } />
-        <Route path='/vault' component={ Vault } />
+        <Route path='/scores'><Scores mode={mode} /></Route>
+        <Route path='/rules'><Rules mode={mode} /></Route>
+        <Route path='/contact'><Contact mode={mode} /></Route>
+        <Route path='/vault'><Vault mode={mode} /></Route>
       </Switch>
     </div>
   );
