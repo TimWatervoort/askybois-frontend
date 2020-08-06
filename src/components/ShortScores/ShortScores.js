@@ -12,16 +12,16 @@ const ShortScores = props => {
     <div className='row pt-3'>
       <div className='col'>
         <h3 className='ask-nav'>BEST NAME</h3>
-        <h3 className='ask-text'>A Band Called Colonoscopy</h3>
+        <h3 className='ask-text'>Littleton Police Department</h3>
       </div>
     </div>
 
     <div className='row pt-3 my-5'>
       <div className='col'>
         <h3 className='ask-nav'>BEST ANSWER</h3>
-        <h3 className='ask-text'><span className='ask-nav'>Q: </span> In Linguistics, what is the name for the study of words?</h3>
-        <h3 className='ask-text'><span className='ask-nav'>A: </span> Linguistics</h3>
-        <h3 className='ask-text'>- The Phoenix Queen</h3>
+        <h3 className='ask-text'><span className='ask-nav'>Q: </span> What do you get when you mix triple sec, cranberry juice, lime juice, and vodka?</h3>
+        <h3 className='ask-text'><span className='ask-nav'>A: </span> A handy in the club bathroom</h3>
+        <h3 className='ask-text'>- Orange Putin</h3>
       </div>
     </div>
 
