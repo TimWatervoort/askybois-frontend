@@ -7,16 +7,16 @@ const ShortScores = props => {
 
   return (
   <div className={`ask-bg-${mode} container-fluid text-center px-0`}>
-    <h1 className='ask-nav mb-3 text-white ask-rounds-bg p-5'>LAST WEEK'S HIGH SCORES</h1>
+    <div className='ask-nav text-white ask-rounds-bg py-3 mx-0'><h1>LAST WEEK'S HIGH SCORES</h1></div>
 
-    <div className='row pt-3'>
+    <div className='row pt-3 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST NAME</h3>
         <h3 className='ask-text'>Sublime Lime Crimes</h3>
       </div>
     </div>
 
-    <div className='row pt-3 my-5'>
+    <div className='row pt-3 my-5 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST ANSWER</h3>
         <h3 className='ask-text'><span className='ask-nav'>Q: </span> What is the main artery of the arm, specifically the upper arm?</h3>
@@ -25,8 +25,8 @@ const ShortScores = props => {
       </div>
     </div>
 
-    <h3 className='ask-nav'>TOP THREE</h3>
-    <div className='row p-3'>
+    <h3 className='ask-nav mx-0'>TOP THREE</h3>
+    <div className='row p-3 mx-0'>
       <div className='col'>
         <div className={`card ask-bg-${mode}`}>
           <div className={`card-body p-0 ask-bg-${mode}`}>
