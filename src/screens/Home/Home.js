@@ -17,7 +17,7 @@ const Home = ({ mode }) => {
       </div>
       <BonusQuestion />
     </div>
-    <ShortScores mode={ mode } scores={ scores.slice(0,3) } />
+    <ShortScores mode={ mode } scores={ scores.filter(score => score.rank < 4) } />
   </div>
   )
 }

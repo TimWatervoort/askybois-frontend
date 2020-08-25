@@ -12,16 +12,16 @@ const ShortScores = props => {
     <div className='row pt-3 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST NAME</h3>
-        <h3 className='ask-text'>Sublime Lime Crimes</h3>
+        <h3 className='ask-text'><i>Angry Bird Noises</i></h3>
       </div>
     </div>
 
     <div className='row pt-3 my-5 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST ANSWER</h3>
-        <h3 className='ask-text'><span className='ask-nav'>Q: </span> What is the main artery of the arm, specifically the upper arm?</h3>
-        <h3 className='ask-text'><span className='ask-nav'>A: </span> Armtery</h3>
-        <h3 className='ask-text'>- Lord of Displeasure</h3>
+        <h3 className='ask-text'><span className='ask-nav'>Q: </span> Three European countries make claims on Antarctica. Which ones?</h3>
+        <h3 className='ask-text'><span className='ask-nav'>A: </span> England (because Australia), Spain (because Argentina), and the Netherlands (because there could be spices buried in the snow)</h3>
+        <h3 className='ask-text'>- Potato Skin</h3>
       </div>
     </div>
 

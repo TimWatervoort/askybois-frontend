@@ -15,7 +15,8 @@ export const scienceCategories = [
   'logic',
   'linguistics',
   'inorganic chemistry',
-  'limbs'
+  'limbs',
+  'trigonometry'
 ];
 
 export const entertainmentCategories = [
@@ -35,7 +36,8 @@ export const entertainmentCategories = [
   'mulan',
   'sketch comedy',
   'spider-man',
-  'zombies'
+  'zombies',
+  'bethesda games'
 ];
 
 export const historyGeographyCategories = [
@@ -57,7 +59,8 @@ export const historyGeographyCategories = [
   'colonial usa',
   'the civil rights movement',
   'the middle east',
-  'germany'
+  'germany',
+  'antarctica'
 ];
 
 export const foodDrinkCategories = [
@@ -75,7 +78,8 @@ export const foodDrinkCategories = [
   'breakfast',
   'beans',
   'vodka',
-  'east asian food'
+  'east asian food',
+  'liqueurs'
 ];
 
 export const randomCategories = [
@@ -95,5 +99,6 @@ export const randomCategories = [
   'egyptian mythology',
   'hallucinogens',
   'the olympics',
-  'percussion'
+  'percussion',
+  'musical instruments'
 ];

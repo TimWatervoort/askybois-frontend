@@ -10,7 +10,7 @@ import { Switch, Route } from 'react-router-dom';
 
 function App() {
 
-  const [mode, setMode] = useState('light');
+  const [mode, setMode] = useState('dark');
 
   return (
     <div className='App'>
