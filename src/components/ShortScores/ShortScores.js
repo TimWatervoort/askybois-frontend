@@ -12,16 +12,16 @@ const ShortScores = props => {
     <div className='row pt-3 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST NAME</h3>
-        <h3 className='ask-text'><i>Angry Bird Noises</i></h3>
+        <h3 className='ask-text'>pain.</h3>
       </div>
     </div>
 
     <div className='row pt-3 my-5 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST ANSWER</h3>
-        <h3 className='ask-text'><span className='ask-nav'>Q: </span> Three European countries make claims on Antarctica. Which ones?</h3>
-        <h3 className='ask-text'><span className='ask-nav'>A: </span> England (because Australia), Spain (because Argentina), and the Netherlands (because there could be spices buried in the snow)</h3>
-        <h3 className='ask-text'>- Potato Skin</h3>
+        <h3 className='ask-text'><span className='ask-nav'>Q: </span> When Mulan is getting ready to meet the matchmaker, what four things does her grandmother give her?</h3>
+        <h3 className='ask-text'><span className='ask-nav'>A: </span> The elder wand, the resurrection stone, the invisibility cloak, and Harry's fat ass</h3>
+        <h3 className='ask-text'>- Nathan</h3>
       </div>
     </div>
 
