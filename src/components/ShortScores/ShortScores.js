@@ -12,15 +12,15 @@ const ShortScores = props => {
     <div className='row pt-3 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST NAME</h3>
-        <h3 className='ask-text'>pain.</h3>
+        <h3 className='ask-text'>Podunk Hopscotch Mafia</h3>
       </div>
     </div>
 
     <div className='row pt-3 my-5 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST ANSWER</h3>
-        <h3 className='ask-text'><span className='ask-nav'>Q: </span> When Mulan is getting ready to meet the matchmaker, what four things does her grandmother give her?</h3>
-        <h3 className='ask-text'><span className='ask-nav'>A: </span> The elder wand, the resurrection stone, the invisibility cloak, and Harry's fat ass</h3>
+        <h3 className='ask-text'><span className='ask-nav'>Q: </span> What are the two main peoples known as Eskimos?</h3>
+        <h3 className='ask-text'><span className='ask-nav'>A: </span> Inuit and I don't wanna put in a joke here cause I don't wanna insult who they are or the Inuit somehow so instead I'm just gonna shut up, sorry</h3>
         <h3 className='ask-text'>- Nathan</h3>
       </div>
     </div>
