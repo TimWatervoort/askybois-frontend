@@ -8,7 +8,8 @@ const wins = [
   { name: 'Human Form!', wins: 4 },
   { name: 'Dominus Leguminium', wins: 1 },
   { name: 'An old, used up shoe', wins: 2 },
-  { name: 'Potato Skin', wins: 1 }
+  { name: 'Potato Skin', wins: 1 },
+  { name: 'Floorbois', wins: 1 }
 ]
 
 export default wins;

@@ -1,14 +1,12 @@
 const scores = [
-  { name: 'Nathan', rank: 1, score: 54 },
-  { name: 'Weeb music or something', rank: 1, score: 51},
-  { name: 'I don\'t give a fuck, his name was Mike', rank: 3, score: 50 },
-  { name: 'fUnky Fre$h', rank: 4, score: 46 },
-  { name: 'Hogwallop', rank: 5, score: 39 },
-  { name: 'waka waka', rank: 6, score: 38 },
-  { name: 'One Inch Too Few', rank: 7, score: 29 },
-  { name: 'Podunk Hopscotch Mafia', rank: 8, score: 26 },
-  { name: 'Tequila Banana', rank: 9, score: 24 },
-  { name: '1st Place', rank: 9, score: 24 }
-]
+  { name: 'Floorbois', rank: 1, score: 63 },
+  { name: 'Feliz Cumpleanos Logan', rank: 2, score: 60},
+  { name: 'An older, more used up shoe', rank: 3, score: 36 },
+  { name: 'The Stress Muffin', rank: 4, score: 34 },
+  { name: 'Sassy Panda Mountaineers', rank: 5, score: 33 },
+  { name: 'And Rohan Will Answer', rank: 6, score: 25 },
+  { name: 'Kelly & Trevor', rank: 7, score: 23 },
+  { name: 'Nonstop Butt Machine', rank: 8, score: 22 }
+];
 
 export default scores;
