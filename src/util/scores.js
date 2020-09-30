@@ -1,12 +1,15 @@
 const scores = [
-  { name: 'Ben', rank: 1, score: 53 },
-  { name: 'The Fewuship of da Wing', rank: 1, score: 53},
-  { name: 'Uwu', rank: 3, score: 42 },
-  { name: 'gater tater stew', rank: 4, score: 41 },
-  { name: 'Not Fast, Just Furious', rank: 5, score: 30 },
-  { name: 'Kelly & Trevor', rank: 6, score: 26 },
-  { name: 'brand deal pending', rank: 7, score: 17 },
-  { name: 'Guess I won\'t be seen or heard', rank: 8, score: 16 }
+  { name: 'Nathan', rank: 1, score: 51 },
+  { name: 'Ben', rank: 2, score: 50 },
+  { name: 'Körk', rank: 3, score: 47 },
+  { name: 'Hogwallop', rank: 4, score: 44 },
+  { name: 'Kirk\'s Lecherous Dad', rank: 5, score: 38 },
+  { name: ':b:rotherless in :b:oulder', rank: 6, score: 37 },
+  { name: 'Kelly & Trevor', rank: 7, score: 32 },
+  { name: 'Allll those chickens', rank: 8, score: 23 },
+  { name: 'Dan', rank: 9, score: 22 },
+  { name: 'COVID for 500 please', rank: 10, score: 19 },
+  { name: 'Notorious RBG was our last hope. Prepare for the end.', rank: 11, score: 18 }
 ];
 
 export default scores;
