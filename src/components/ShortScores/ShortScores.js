@@ -12,16 +12,16 @@ const ShortScores = props => {
     <div className='row pt-3 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST NAME</h3>
-        <h3 className='ask-text'>COVID for 500 please</h3>
+        <h3 className='ask-text'>mecha-stalin</h3>
       </div>
     </div>
 
     <div className='row pt-3 my-5 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST ANSWER</h3>
-        <h3 className='ask-text'><span className='ask-nav'>Q: </span> What famous British WWII aircraft was produced more than any other fighter?</h3>
-        <h3 className='ask-text'><span className='ask-nav'>A: </span> Flappy Steve</h3>
-        <h3 className='ask-text'>- COVID for 500 please</h3>
+        <h3 className='ask-text'><span className='ask-nav'>Q: </span> What bounty hunter did Han Solo kill in the beginning of A New Hope?</h3>
+        <h3 className='ask-text'><span className='ask-nav'>A: </span> Jar Jar</h3>
+        <h3 className='ask-text'>- Alison</h3>
       </div>
     </div>
 
