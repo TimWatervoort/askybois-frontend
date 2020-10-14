@@ -65,12 +65,12 @@ const BonusRounds = () => (
 
     <div className='row'>
       <div className='col'>
-        <h3 className='ask-truthybois'>TRUTHYBOIS</h3>
+        <h3 className='ask-orderbois'>Orderbois</h3>
       </div>
     </div>
     <div className='row mb-2'>
       <div className='col'>
-        <h5 className='ask-text'>False: This is not a true or false round.</h5>
+        <h5 className='ask-text'>Not finding the pattern and completing the sequence would be chaos.</h5>
       </div>
     </div>
 
