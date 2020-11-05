@@ -12,16 +12,16 @@ const ShortScores = props => {
     <div className='row pt-3 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST NAME</h3>
-        <h3 className='ask-text'>Lord of the Rings needs no titties</h3>
+        <h3 className='ask-text'>2020 is a BDSM scene and none of us know the safeword</h3>
       </div>
     </div>
 
     <div className='row pt-3 my-5 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST ANSWER</h3>
-        <h3 className='ask-text'><span className='ask-nav'>Q: </span> What are the two most-visited national parks?</h3>
-        <h3 className='ask-text'><span className='ask-nav'>A: </span> The Grand Canyon and then just the other end of the Grand Canyon.</h3>
-        <h3 className='ask-text'>- Creaky Bones</h3>
+        <h3 className='ask-text'><span className='ask-nav'>Q: </span> What type of appliance can brown foods like a deep fryer while using 70% to 80% less oil?</h3>
+        <h3 className='ask-text'><span className='ask-nav'>A: </span> A deep fryer that is 70-80% the size</h3>
+        <h3 className='ask-text'>- Pro Bone Pro Bono</h3>
       </div>
     </div>
 
