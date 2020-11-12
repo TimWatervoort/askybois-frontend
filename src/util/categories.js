@@ -24,7 +24,8 @@ export const scienceCategories = [
   'geomorphology',
   'cosmology',
   'algebra',
-  'economics'
+  'economics',
+  'cognitive science'
 ];
 
 export const entertainmentCategories = [
@@ -53,7 +54,8 @@ export const entertainmentCategories = [
   'card games',
   'star wars: the original trilogy',
   'valve games',
-  'jazz'
+  'jazz',
+  'coen brothers films'
 ];
 
 export const historyGeographyCategories = [
@@ -84,7 +86,8 @@ export const historyGeographyCategories = [
   'world war i',
   'australia',
   'the renaissance',
-  'dictators'
+  'dictators',
+  'mexico'
 ];
 
 export const foodDrinkCategories = [
@@ -111,7 +114,8 @@ export const foodDrinkCategories = [
   'tequila',
   'candy',
   'mediterranean food',
-  'water'
+  'water',
+  'pasta'
 ];
 
 export const randomCategories = [
@@ -140,5 +144,6 @@ export const randomCategories = [
   'font',
   'the internet',
   'national parks',
-  'home appliances'
+  'home appliances',
+  'cartography'
 ];

@@ -10,7 +10,8 @@ const wins = [
   { name: 'An old, used up shoe', wins: 2 },
   { name: 'Potato Skin', wins: 1 },
   { name: 'Floorbois', wins: 1 },
-  { name: 'The Fewuship of da Wing', wins: 1 }
+  { name: 'The Fewuship of da Wing', wins: 1 },
+  { name: 'Dummy Thinn', wins: 1 }
 ]
 
 export default wins;

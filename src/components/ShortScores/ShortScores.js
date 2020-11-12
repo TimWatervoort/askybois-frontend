@@ -12,16 +12,16 @@ const ShortScores = props => {
     <div className='row pt-3 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST NAME</h3>
-        <h3 className='ask-text'>2020 is a BDSM scene and none of us know the safeword</h3>
+        <h3 className='ask-text'>Dummy Thinn</h3>
       </div>
     </div>
 
     <div className='row pt-3 my-5 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST ANSWER</h3>
-        <h3 className='ask-text'><span className='ask-nav'>Q: </span> What type of appliance can brown foods like a deep fryer while using 70% to 80% less oil?</h3>
-        <h3 className='ask-text'><span className='ask-nav'>A: </span> A deep fryer that is 70-80% the size</h3>
-        <h3 className='ask-text'>- Pro Bone Pro Bono</h3>
+        <h3 className='ask-text'><span className='ask-nav'>Q: </span> What's the difference between ravioli and tortellini?</h3>
+        <h3 className='ask-text'><span className='ask-nav'>A: </span> I can't say "tortellini, tortellini, give me the formuoli"</h3>
+        <h3 className='ask-text'>- Nathan</h3>
       </div>
     </div>
 
