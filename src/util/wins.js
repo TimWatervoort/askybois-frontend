@@ -8,7 +8,7 @@ const wins = [
   { name: 'Human Form!', wins: 4 },
   { name: 'Dominus Leguminium', wins: 1 },
   { name: 'An old, used up shoe', wins: 2 },
-  { name: 'Potato Skin', wins: 1 },
+  { name: 'That Bitch Carole Baskins', wins: 2 },
   { name: 'Floorbois', wins: 1 },
   { name: 'The Fewuship of da Wing', wins: 1 },
   { name: 'Dummy Thinn', wins: 1 }
