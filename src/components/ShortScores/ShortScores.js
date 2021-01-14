@@ -12,16 +12,16 @@ const ShortScores = props => {
     <div className='row pt-3 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST NAME</h3>
-        <h3 className='ask-text'>I would download a car</h3>
+        <h3 className='ask-text'>Eowyn is a simp for Aragorn</h3>
       </div>
     </div>
 
     <div className='row pt-3 my-5 mx-0'>
       <div className='col'>
         <h3 className='ask-nav'>BEST ANSWER</h3>
-        <h3 className='ask-text'><span className='ask-nav'>Q: </span> Why are Nigerians protesting the police?</h3>
-        <h3 className='ask-text'><span className='ask-nav'>A: </span> The police aren't being brutal <i>enough</i>.</h3>
-        <h3 className='ask-text'>- If you think this is hot, check out our OnlyFans</h3>
+        <h3 className='ask-text'><span className='ask-nav'>Q: </span> What's Hiccup's dad's name?</h3>
+        <h3 className='ask-text'><span className='ask-nav'>A: </span> Achoo</h3>
+        <h3 className='ask-text'>- hairy hobbit hole</h3>
       </div>
     </div>
 
