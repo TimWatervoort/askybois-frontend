@@ -2,7 +2,7 @@ const wins = [
   { name: 'Alison', wins: 1 },
   { name: 'HispanicsAtTheDisco', wins: 2 },
   { name: 'America\'s Sweetfart', wins: 2 },
-  { name: 'Mama Luigi', wins: 2 },
+  { name: 'Throw Me Into Kilauea', wins: 3 },
   { name: 'Brotein', wins: 6 },
   { name: 'tapdancing with the homeless', wins: 8 },
   { name: 'Human Form!', wins: 4 },
