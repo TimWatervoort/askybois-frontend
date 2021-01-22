@@ -6,6 +6,7 @@ import Scores from 'screens/Scores';
 import Rules from 'screens/Rules';
 import Contact from 'screens/Contact';
 import Vault from 'screens/Vault';
+import Blog from 'screens/Blog';
 import { Switch, Route } from 'react-router-dom';
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Route path='/rules'><Rules mode={mode} /></Route>
         <Route path='/contact'><Contact mode={mode} /></Route>
         <Route path='/vault'><Vault mode={mode} /></Route>
+        <Route path='/blog'><Blog mode={mode} /></Route>
       </Switch>
     </div>
   );

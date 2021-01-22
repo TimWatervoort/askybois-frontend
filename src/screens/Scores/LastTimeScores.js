@@ -3,26 +3,26 @@ import LongScoreEntry from './LongScoreEntry';
 
 const LastTimeScores = props => {
   return (
-    <div className='container-fluid'>
-      <div className='row text-center'>
-        <div className='col'>
-          <h3 className='py-3 ask-nav'>LAST TIME</h3>
+    <div className='container-fluid px-0'>
+      <div className='ask-time-body pt-2 row mx-3'>
+        <div className='col text-left ml-5'>
+          <h2 className='py-3 ask-nav'>LAST TIME ON ASKYBOIS...</h2>
         </div>
       </div>
-      <div className='row px-0 text-center'>
+      <div className='row px-0 my-3 text-center'>
 
         <div className='col-6 py-3'>
-          <h5 className='ask-nav'><strong>Name</strong></h5>
+          <h3 className='ask-nav'><strong>NAME</strong></h3>
         </div>
         <div className='col-3 py-3'>
-          <h5 className='ask-nav'><strong>Rank</strong></h5>
+          <h3 className='ask-nav'><strong>RANK</strong></h3>
         </div>
         <div className='col-3 py-3'>
-          <h5 className='ask-nav'><strong>Score</strong></h5>
+          <h3 className='ask-nav'><strong>SCORE</strong></h3>
         </div>
 
       </div>
-      { props.scores.map((entry, i) => <LongScoreEntry key={ i } data={ entry } />) }
+      { props.scores.map((entry, i) => <LongScoreEntry index={ i } key={ i } data={ entry } />) }
     </div>
   )
 }

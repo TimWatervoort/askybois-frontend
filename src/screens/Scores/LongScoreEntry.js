@@ -1,10 +1,11 @@
 import React from 'react';
 
 const ScoreEntry = props => {
-  const { data: { name, rank, score } } = props;
+  const { index, data: { name, rank, score } } = props;
+  const background = index % 2 > 0 ? 'ask-secondary-bg' : 'ask-rounds-bg';
 
   return (
-    <div style={{ borderTop: '1px solid rgba(0,0,0,.125)' }} className='row px-0 text-center'>
+    <div className={`row px-0 pt-2 text-white text-center ${background}`}>
 
       <div className='col-6 py-3'>
         <h5 className='ask-text'>{ name }</h5>
