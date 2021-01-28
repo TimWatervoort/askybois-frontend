@@ -12,13 +12,13 @@ const ShortScores = props => {
     <div className='row pt-3 mx-0 my-5'>
       <div className='col-md-6'>
         <h3 className='ask-nav ask-gold-text'>BEST NAME</h3>
-        <h3 className='ask-text'>The Tony Blair Witch Project</h3>
+        <h3 className='ask-text'>Alison's Harem</h3>
       </div>
       <div className='col-md-6'>
         <h3 className='ask-nav ask-gold-text'>BEST ANSWER</h3>
-        <h3 className='ask-text'><span className='ask-nav'>Q: </span> What is cured but uncooked ham called in the UK?</h3>
-        <h3 className='ask-text'><span className='ask-nav'>A: </span> Steamed Hams</h3>
-        <h3 className='ask-text'>- Celeborn is a Cuck</h3>
+        <h3 className='ask-text'><span className='ask-nav'>Q: </span> What was the first electronic instrument called?</h3>
+        <h3 className='ask-text'><span className='ask-nav'>A: </span> Kazoo</h3>
+        <h3 className='ask-text'>- swampbuttthing</h3>
       </div>
     </div>
 

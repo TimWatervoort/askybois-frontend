@@ -38,9 +38,29 @@
   color: rgb(255,0,255);
 }
 
+.ask-sleuthybois {
+  font-family: 'Montez', cursive;
+  color: rgb(221, 126, 107);
+}
+
+.ask-chronobois {
+  font-family: 'Gaegu', cursive;
+  color: rgb(109, 158, 235);
+}
+
 .ask-darkest-hour {
   font-family: 'Oswald', sans-serif;
   color: rgb(102,102,102);
+}
+
+.ask-devils-chalices {
+  font-family: 'Oswald', sans-serif;
+  color: rgb(152, 0, 0);
+}
+
+.ask-illusion-of-time {
+  font-family: 'Oswald', sans-serif;
+  color: rgb(162,196,201);
 }
 
 .ask-darkest-hour-bg {

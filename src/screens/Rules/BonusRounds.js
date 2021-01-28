@@ -95,6 +95,28 @@ const BonusRounds = () => (
         <h5 className='ask-text'>What is it that you're listening to?</h5>
       </div>
     </div>
+
+    <div className='row'>
+      <div className='col'>
+        <h3 className='ask-sleuthybois'>Sleuthybois</h3>
+      </div>
+    </div>
+    <div className='row pb-4'>
+      <div className='col'>
+        <h5 className='ask-text'>The fewer hints you need, the more points you get.</h5>
+      </div>
+    </div>
+
+    <div className='row'>
+      <div className='col'>
+        <h3 className='ask-chronobois'>chronobois</h3>
+      </div>
+    </div>
+    <div className='row pb-4'>
+      <div className='col'>
+        <h5 className='ask-text'>Can you make a timeline in time?</h5>
+      </div>
+    </div>
   </div>
 );
 
