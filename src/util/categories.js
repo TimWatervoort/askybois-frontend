@@ -25,7 +25,15 @@ export const scienceCategories = [
   'cosmology',
   'algebra',
   'economics',
-  'cognitive science'
+  'cognitive science',
+  'biochemistry',
+  'data science',
+  'sociology',
+  'morphosyntax',
+  'quantum mechanics',
+  'philosophy',
+  'volcanology',
+  'political science'
 ];
 
 export const entertainmentCategories = [
@@ -55,7 +63,15 @@ export const entertainmentCategories = [
   'star wars: the original trilogy',
   'valve games',
   'jazz',
-  'coen brothers films'
+  'coen brothers films',
+  'punk rock',
+  'jurassic park',
+  'tom hanks movies',
+  'metal',
+  'dreamworks films',
+  'sonic the hedgehog',
+  'electronic music',
+  'indie games'
 ];
 
 export const historyGeographyCategories = [
@@ -87,7 +103,15 @@ export const historyGeographyCategories = [
   'australia',
   'the renaissance',
   'dictators',
-  'mexico'
+  'mexico',
+  'the louisiana purchase',
+  'california',
+  'countries that don\'t exist anymore',
+  'the netherlands',
+  'southeast asia',
+  'the fall of the soviet union',
+  'japan',
+  'the vietnam war'
 ];
 
 export const foodDrinkCategories = [
@@ -115,7 +139,15 @@ export const foodDrinkCategories = [
   'candy',
   'mediterranean food',
   'water',
-  'pasta'
+  'pasta',
+  'rum',
+  'french cuisine',
+  'soda',
+  'scotch',
+  'ice cream',
+  'ham',
+  'peppers',
+  'mexican cuisine'
 ];
 
 export const randomCategories = [
@@ -145,5 +177,13 @@ export const randomCategories = [
   'the internet',
   'national parks',
   'home appliances',
-  'cartography'
+  'cartography',
+  '2009',
+  'm i c h a e l',
+  'the united nations',
+  'fencing',
+  'gnomes',
+  'things that didn\'t quite work out',
+  'public transportation',
+  'esports'
 ];

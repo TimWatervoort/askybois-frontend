@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact = ({ mode }) => {
   return (
-    <div className={`ask-bg-${mode} container-fluid text-center py-5 ask-contact`}>
+    <div className={`ask-bg-${mode} container-fluid text-center py-5 ask-full-page`}>
       <div className='row mb-5'>
         <div className='col'>
           <h1 className='ask-nav'>CONTACT</h1>

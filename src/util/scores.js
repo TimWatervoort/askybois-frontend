@@ -1,12 +1,13 @@
 const scores = [
-  { name: 'Throw Me Into Kilauea', rank: 1, score: 59 },
-  { name: 'The Tony Blair Witch Project', rank: 2, score: 55 },
-  { name: 'Beefquake', rank: 3, score: 51 },
-  { name: 'Celeborn is a Cuck', rank: 4, score: 49 },
-  { name: 'Zune to be dead', rank: 5, score: 40 },
-  { name: 'The quantum sock', rank: 6, score: 38 },
-  { name: 'My spoon is too big', rank: 7, score: 35 },
-  { name: 'Dan', rank: 7, score: 35 },
+  { name: 'Toesucker Supreme', rank: 1, score: 56 },
+  { name: 'Baking Cookies', rank: 1, score: 56 },
+  { name: 'Blumpkin then Enema', rank: 3, score: 55 },
+  { name: 'Ben', rank: 4, score: 53 },
+  { name: 'do the welsh count sheep to go to sleep?', rank: 5, score: 46 },
+  { name: 'The lonely pea', rank: 6, score: 42 },
+  { name: 'Alison\'s Harem', rank: 7, score: 33 },
+  { name: 'swampbutthing', rank: 8, score: 31 },
+  { name: 'Dam you all to heel, damn autocorrect', rank: 9, score: 25 },
 ];
 
 export default scores;

@@ -12,7 +12,7 @@
   color: black;
 }
 
-.ask-contact {
+.ask-full-page {
   height: 100% !important;
   margin-bottom: 0 !important;
 }
@@ -29,6 +29,25 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+.ask-gold-text {
+  color: #daa520;
+}
+
+.ask-gold-bg {
+  background-color: #daa520;
+  color: black;
+}
+
+.ask-silver-bg {
+  background-color: #c0c0c0;
+  color: black;
+}
+
+.ask-bronze-bg {
+  background-color: #cd7f32;
+  color: black;
+}
+
 .ask-greeting {
   font-family: 'Lobster', cursive;
   font-size: 5em;
@@ -37,6 +56,13 @@
 .ask-bq-body {
   color: white;
   background-image: url('./assets/question-mark.jpg');
+}
+
+.ask-time-body {
+  color: black;
+  background-image: url('./assets/time.jpg');
+  background-position: center;
+  border-radius: 15px;
 }
 
 .ask-bq-heading {
@@ -72,6 +98,14 @@
 
 .ask-rounds-bg {
   background-color: rgb(55, 71, 79);
+}
+
+.ask-secondary-bg {
+  background-color: #526a75;
+}
+
+.ask-red-bg {
+  background-color: #5b0f00ff;
 }
 
 .ask-pain {
