@@ -2,6 +2,7 @@ import React from 'react';
 import BonusQuestion from 'components/BonusQuestion';
 import ShortScores from 'components/ShortScores';
 import scores from 'util/scores';
+import { bestNameAwards, bestAnswerAwards } from 'util/awards';
 
 const Home = ({ mode }) => {
 
@@ -17,7 +18,12 @@ const Home = ({ mode }) => {
       </div>
       <BonusQuestion />
     </div>
-    <ShortScores mode={ mode } scores={ scores.filter(score => score.rank < 4) } />
+    <ShortScores
+      mode={ mode }
+      scores={ scores.filter(score => score.rank < 4) }
+      bestNameAwards={ bestNameAwards }
+      bestAnswerAwards={ bestAnswerAwards }
+    />
   </div>
   )
 }

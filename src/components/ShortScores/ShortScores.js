@@ -3,7 +3,10 @@ import TopScoreEntry from 'components/TopScoreEntry';
 
 const ShortScores = props => {
 
-  const { mode } = props;
+  const { mode, scores, bestNameAwards, bestAnswerAwards } = props;
+
+  const latestName = bestNameAwards[bestNameAwards.length - 1];
+  const latestAnswer = bestAnswerAwards[bestAnswerAwards.length - 1];
 
   return (
   <div className={`ask-bg-${mode} container-fluid text-center px-0`}>
@@ -12,13 +15,13 @@ const ShortScores = props => {
     <div className='row pt-3 mx-0 my-5'>
       <div className='col-md-6'>
         <h3 className='ask-nav ask-gold-text'>BEST NAME</h3>
-        <h3 className='ask-text'>Alison's Harem</h3>
+        <h3 className='ask-text'>{ latestName.name }</h3>
       </div>
       <div className='col-md-6'>
         <h3 className='ask-nav ask-gold-text'>BEST ANSWER</h3>
-        <h3 className='ask-text'><span className='ask-nav'>Q: </span> What was the first electronic instrument called?</h3>
-        <h3 className='ask-text'><span className='ask-nav'>A: </span> Kazoo</h3>
-        <h3 className='ask-text'>- swampbuttthing</h3>
+        <h3 className='ask-text'><span className='ask-nav'>Q: </span> { latestAnswer.question }</h3>
+        <h3 className='ask-text'><span className='ask-nav'>A: </span> { latestAnswer.answer }</h3>
+        <h3 className='ask-text'>- { latestAnswer.name }</h3>
       </div>
     </div>
 
@@ -36,7 +39,7 @@ const ShortScores = props => {
             <h3 className='ask-nav'><strong>SCORE</strong></h3>
           </div>
         </div>
-        { props.scores.map((entry, i) => <TopScoreEntry key={ i } data={ entry } />) }
+        { scores.map((entry, i) => <TopScoreEntry key={ i } data={ entry } />) }
       </div>
     </div>
   </div>
