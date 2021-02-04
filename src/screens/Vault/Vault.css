@@ -1,0 +1,9 @@
+.ask-collapsible {
+  transition: max-height ease 1s;
+  overflow: hidden;
+  max-height: 0;
+}
+
+.ask-collapsible.visible {
+  max-height: 5000px;
+}

@@ -1,5 +1,5 @@
 import React from 'react';
-import Category from './Category';
+import CategoryGroup from './CategoryGroup';
 import { 
   scienceCategories,
   entertainmentCategories,
@@ -7,8 +7,10 @@ import {
   foodDrinkCategories,
   randomCategories
  } from 'util/categories';
+ import './Vault.css';
 
 const Vault = ({ mode }) => {
+
   return (
     <div className={`ask-bg-${mode}`}>
       <div className='container-fluid py-5 text-center'>
@@ -24,50 +26,11 @@ const Vault = ({ mode }) => {
         </div>
       </div>
 
-      <div className='container-fluid my-2 py-2 ask-rounds-bg text-center'>
-        <div className='row text-center mt-3 mb-3'>
-          <div className='col'>
-            <h2 className='ask-nav text-white'>SCIENCE</h2>
-          </div>
-        </div>
-        { scienceCategories.map((category, i) => <Category color='light' name={ category } key={ i } />) }
-      </div>
-
-      <div className='container-fluid my-2 py-2 text-center'>
-        <div className='row text-center mt-3 mb-3'>
-          <div className='col'>
-            <h2 className='ask-nav'>ENTERTAINMENT</h2>
-          </div>
-        </div>
-        { entertainmentCategories.map((category, i) => <Category color='black' name={ category } key={ i } />) }
-      </div>
-
-      <div className='container-fluid my-2 py-2 ask-rounds-bg text-center'>
-        <div className='row text-center mt-3 mb-3'>
-          <div className='col'>
-            <h2 className='ask-nav text-white'>HISTORY AND GEOGRAPHY</h2>
-          </div>
-        </div>
-        { historyGeographyCategories.map((category, i) => <Category color='light' name={ category } key={ i } />) }
-      </div>
-
-      <div className='container-fluid my-2 py-2 text-center'>
-        <div className='row text-center mt-3 mb-3'>
-          <div className='col'>
-            <h2 className='ask-nav'>FOOD AND DRINK</h2>
-          </div>
-        </div>
-        { foodDrinkCategories.map((category, i) => <Category color='black' name={ category } key={ i } />) }
-      </div>
-
-      <div className='container-fluid mt-2 py-2 ask-rounds-bg text-center'>
-        <div className='row text-center mt-3 mb-3'>
-          <div className='col'>
-            <h2 className='ask-nav text-white'>RANDOM</h2>
-          </div>
-        </div>
-        { randomCategories.map((category, i) => <Category color='light' name={ category } key={ i } />) }
-      </div>
+      <CategoryGroup name='SCIENCE' content={scienceCategories} odd />
+      <CategoryGroup name='ENTERTAINMENT' content={entertainmentCategories} />
+      <CategoryGroup name='HISTORY AND GEOGRAPHY' content={historyGeographyCategories} odd />
+      <CategoryGroup name='FOOD AND DRINK' content={foodDrinkCategories} />
+      <CategoryGroup name='RANDOM' content={randomCategories} odd />
     </div>
   )
 }
