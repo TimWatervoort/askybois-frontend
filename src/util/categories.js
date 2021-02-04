@@ -33,7 +33,8 @@ export const scienceCategories = [
   'quantum mechanics',
   'philosophy',
   'volcanology',
-  'political science'
+  'political science',
+  'nebulae',
 ];
 
 export const entertainmentCategories = [
@@ -71,7 +72,8 @@ export const entertainmentCategories = [
   'dreamworks films',
   'sonic the hedgehog',
   'electronic music',
-  'indie games'
+  'indie games',
+  'inception',
 ];
 
 export const historyGeographyCategories = [
@@ -111,7 +113,8 @@ export const historyGeographyCategories = [
   'southeast asia',
   'the fall of the soviet union',
   'japan',
-  'the vietnam war'
+  'the vietnam war',
+  'colorado',
 ];
 
 export const foodDrinkCategories = [
@@ -147,7 +150,8 @@ export const foodDrinkCategories = [
   'ice cream',
   'ham',
   'peppers',
-  'mexican cuisine'
+  'mexican cuisine',
+  'espresso',
 ];
 
 export const randomCategories = [
@@ -185,5 +189,6 @@ export const randomCategories = [
   'gnomes',
   'things that didn\'t quite work out',
   'public transportation',
-  'esports'
+  'esports',
+  'eating utensils',
 ];

@@ -1,13 +1,12 @@
 const scores = [
-  { name: 'Toesucker Supreme', rank: 1, score: 56 },
-  { name: 'Baking Cookies', rank: 1, score: 56 },
-  { name: 'Blumpkin then Enema', rank: 3, score: 55 },
-  { name: 'Ben', rank: 4, score: 53 },
-  { name: 'do the welsh count sheep to go to sleep?', rank: 5, score: 46 },
-  { name: 'The lonely pea', rank: 6, score: 42 },
-  { name: 'Alison\'s Harem', rank: 7, score: 33 },
-  { name: 'swampbutthing', rank: 8, score: 31 },
-  { name: 'Dam you all to heel, damn autocorrect', rank: 9, score: 25 },
+  { name: 'A slightly drippy gloryhole', rank: 1, score: 68 },
+  { name: 'The Cooking Penis', rank: 2, score: 57 },
+  { name: 'the spectre of communism', rank: 3, score: 56 },
+  { name: 'Dota is the superior moba', rank: 4, score: 47 },
+  { name: 'Bilbo\'s saggy baggins', rank: 5, score: 35 },
+  { name: 'the anvil that broke the camel\'s back', rank: 6, score: 32 },
+  { name: 'Enemies are my friends', rank: 7, score: 26 },
+  { name: 'Emily', rank: 8, score: 15 },
 ];
 
 export default scores;
