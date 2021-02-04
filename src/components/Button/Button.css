@@ -1,0 +1,13 @@
+.ask-button-default {
+  background-color: #017a56 !important;
+  color: white !important;
+}
+
+.ask-button-rounds {
+  background-color: rgb(55, 71, 79);
+}
+
+.ask-button-gold {
+  background-color: #daa520;
+  color: black;
+}
