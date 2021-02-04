@@ -7,21 +7,22 @@ import {
   foodDrinkCategories,
   randomCategories
  } from 'util/categories';
- import './Vault.css';
+import bonusQuestions from 'util/bonusQuestions';
+import './Vault.css';
 
 const Vault = ({ mode }) => {
 
   return (
     <div className={`ask-bg-${mode}`}>
-      <div className='container-fluid py-5 text-center'>
-        <div className='row'>
+      <div className='container-fluid text-center'>
+        <div className='row py-5'>
           <div className='col'>
             <h1 className='ask-nav'>VAULT</h1>
           </div>
         </div>
-        <div className='row'>
+        <div className='row mb-0 pt-4 pb-3 ask-bq-body'>
           <div className='col'>
-            <h3 className='ask-nav'>At the moment, this page is just to see past categories. If you want one brought back, let me know! Hopefully, I'll have full presentation download links here soon.</h3>
+            <h3 className='ask-nav'>SEE THE PAST</h3>
           </div>
         </div>
       </div>
@@ -30,7 +31,9 @@ const Vault = ({ mode }) => {
       <CategoryGroup name='ENTERTAINMENT' content={entertainmentCategories} />
       <CategoryGroup name='HISTORY AND GEOGRAPHY' content={historyGeographyCategories} odd />
       <CategoryGroup name='FOOD AND DRINK' content={foodDrinkCategories} />
-      <CategoryGroup name='RANDOM' content={randomCategories} odd />
+      <CategoryGroup name='RANDOM' content={randomCategories} odd/>
+      <CategoryGroup name='BONUS QUESTIONS' content={bonusQuestions.map(bq => bq.content)} buttonText='QUESTIONS' />
+
     </div>
   )
 }
