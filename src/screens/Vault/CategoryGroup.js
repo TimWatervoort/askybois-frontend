@@ -14,7 +14,7 @@ const CategoryGroup = ({ name, content, odd, buttonText, mode }) => {
   }
 
   return (
-    <div className={`container-fluid mb-2 py-2 text-center ${getBgColor()}`}>
+    <div className={`container-fluid pt-2 pb-4 text-center ${getBgColor()}`}>
       <div className='row text-center mt-3 mb-1'>
         <div className='col'>
           <h2 className={`ask-nav ${odd ? 'text-white' : 'text-black'}`}>{ name }</h2>
