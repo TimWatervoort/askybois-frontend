@@ -27,12 +27,12 @@ const Vault = ({ mode }) => {
         </div>
       </div>
 
-      <CategoryGroup name='SCIENCE' content={scienceCategories} odd />
-      <CategoryGroup name='ENTERTAINMENT' content={entertainmentCategories} />
-      <CategoryGroup name='HISTORY AND GEOGRAPHY' content={historyGeographyCategories} odd />
-      <CategoryGroup name='FOOD AND DRINK' content={foodDrinkCategories} />
-      <CategoryGroup name='RANDOM' content={randomCategories} odd/>
-      <CategoryGroup name='BONUS QUESTIONS' content={bonusQuestions.map(bq => bq.content)} buttonText='QUESTIONS' />
+      <CategoryGroup name='SCIENCE' mode={mode} content={scienceCategories} odd />
+      <CategoryGroup name='ENTERTAINMENT' mode={mode} content={entertainmentCategories} />
+      <CategoryGroup name='HISTORY AND GEOGRAPHY' mode={mode} content={historyGeographyCategories} odd />
+      <CategoryGroup name='FOOD AND DRINK' mode={mode} content={foodDrinkCategories} />
+      <CategoryGroup name='RANDOM' mode={mode} content={randomCategories} odd/>
+      <CategoryGroup name='BONUS QUESTIONS' mode={mode} content={bonusQuestions.map(bq => bq.content)} buttonText='QUESTIONS' />
 
     </div>
   )

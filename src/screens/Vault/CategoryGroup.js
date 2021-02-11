@@ -2,11 +2,19 @@ import React, { useState } from 'react';
 import Button from 'components/Button';
 import Category from './Category';
 
-const CategoryGroup = ({ name, content, odd, buttonText }) => {
+const CategoryGroup = ({ name, content, odd, buttonText, mode }) => {
   const [contentOpen, setContentOpen] = useState(false);
 
+  const getBgColor = () => {
+    if (odd) {
+      return 'ask-rounds-bg';
+    } else {
+      return `ask-bg-${mode}`;
+    }
+  }
+
   return (
-    <div className={`container-fluid mb-2 py-2 text-center ${odd && 'ask-rounds-bg'}`}>
+    <div className={`container-fluid mb-2 py-2 text-center ${getBgColor()}`}>
       <div className='row text-center mt-3 mb-1'>
         <div className='col'>
           <h2 className={`ask-nav ${odd ? 'text-white' : 'text-black'}`}>{ name }</h2>
