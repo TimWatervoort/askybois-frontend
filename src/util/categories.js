@@ -35,6 +35,7 @@ export const scienceCategories = [
   'volcanology',
   'political science',
   'nebulae',
+  'archaeology',
 ];
 
 export const entertainmentCategories = [
@@ -74,6 +75,7 @@ export const entertainmentCategories = [
   'electronic music',
   'indie games',
   'inception',
+  'sitcoms',
 ];
 
 export const historyGeographyCategories = [
@@ -115,6 +117,7 @@ export const historyGeographyCategories = [
   'japan',
   'the vietnam war',
   'colorado',
+  'polynesia',
 ];
 
 export const foodDrinkCategories = [
@@ -152,6 +155,7 @@ export const foodDrinkCategories = [
   'peppers',
   'mexican cuisine',
   'espresso',
+  'corn',
 ];
 
 export const randomCategories = [
@@ -191,4 +195,5 @@ export const randomCategories = [
   'public transportation',
   'esports',
   'eating utensils',
+  'knights',
 ];
