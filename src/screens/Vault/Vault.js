@@ -13,7 +13,7 @@ import './Vault.css';
 const Vault = ({ mode }) => {
 
   return (
-    <div className={`ask-bg-${mode}`}>
+    <div className={`ask-bg-${mode} ask-full-page`}>
       <div className='container-fluid text-center'>
         <div className='row py-5'>
           <div className='col'>
