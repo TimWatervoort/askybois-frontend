@@ -14,6 +14,11 @@ const bonusQuestions = [
     content: 'What official product does Victorinox make?',
     date: '2/10',
   },
+  {
+    id: 'bq_3',
+    content: 'How many points does the Baha\'i star have?',
+    date: '2/17',
+  },
 ];
 
 export default bonusQuestions;

@@ -1,12 +1,11 @@
 const scores = [
-  { name: 'The smirkin\' mirkins', rank: 1, score: 56 },
-  { name: 'Stop the Steal', rank: 1, score: 56 },
-  { name: 'Alison\'s 4th Choice', rank: 3, score: 45 },
-  { name: 'Pocky', rank: 4, score: 44 },
-  { name: 'Table Top Orgy', rank: 5, score: 42 },
-  { name: 'definitely not a bear and you can\'t prove otherwise', rank: 6, score: 39 },
-  { name: 'bruh', rank: 7, score: 35 },
-  { name: 'cats and their war crimes', rank: 8, score: 26 },
+  { name: 'I expect you to die', rank: 1, score: 64 },
+  { name: 'C is for Cookie', rank: 2, score: 60 },
+  { name: 'Stuck in a Dungeon DUHNUHNUHNUH', rank: 3, score: 57 },
+  { name: 'War war war war war war war', rank: 4, score: 53 },
+  { name: 'Balonely Island', rank: 5, score: 46 },
+  { name: 'The Hubris of Man Incarnate', rank: 6, score: 40 },
+  { name: '#freebritney', rank: 7, score: 29 },
 ];
 
 export default scores;

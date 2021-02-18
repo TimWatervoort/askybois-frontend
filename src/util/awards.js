@@ -11,6 +11,10 @@ export const bestNameAwards = [
     id: 'bn_2',
     name: 'cats and their war crimes',
   },
+  {
+    id: 'bn_3',
+    name: 'War war war war war war war',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -31,5 +35,11 @@ export const bestAnswerAwards = [
     question: 'Auditobois: The Arthur theme song',
     answer: 'The Bob Marley Non-Porn Edition Animated Series',
     name: 'Stop the Steal',
+  },
+  {
+    id: 'ba_3',
+    question: 'Rapa Nui is famous for having almost 1000 statues called what?',
+    answer: 'Garfield Creator Jim Davis (all capitalized because its a proper noun in its entirety)',
+    name: 'The Hubris of Man Incarnate',
   },
 ];
