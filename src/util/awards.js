@@ -15,6 +15,10 @@ export const bestNameAwards = [
     id: 'bn_3',
     name: 'War war war war war war war',
   },
+  {
+    id: 'bn_4',
+    name: 'Skintight Jorts',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -41,5 +45,11 @@ export const bestAnswerAwards = [
     question: 'Rapa Nui is famous for having almost 1000 statues called what?',
     answer: 'Garfield Creator Jim Davis (all capitalized because its a proper noun in its entirety)',
     name: 'The Hubris of Man Incarnate',
+  },
+  {
+    id: 'ba_3',
+    question: 'Two people invented calculus at the same time. Who?',
+    answer: 'Newton and Bohrmann',
+    name: 'An Armed Chili\'s Waitress',
   },
 ];

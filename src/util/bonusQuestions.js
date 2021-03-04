@@ -19,6 +19,11 @@ const bonusQuestions = [
     content: 'How many points does the Baha\'i star have?',
     date: '2/17',
   },
+  {
+    id: 'bq_4',
+    content: 'What rodent is considered the friendliest animal on Earth?',
+    date: '3/3',
+  },
 ];
 
 export default bonusQuestions;
