@@ -24,6 +24,11 @@ const bonusQuestions = [
     content: 'What rodent is considered the friendliest animal on Earth?',
     date: '3/3',
   },
+  {
+    id: 'bq_5',
+    content: 'Where is the Sea of Tranquility?',
+    date: '3/17',
+  },
 ];
 
 export default bonusQuestions;

@@ -1,14 +1,10 @@
 const scores = [
-  { name: 'The Fantastic Ferret Business', rank: 1, score: 62 },
-  { name: 'Yew Ewe People', rank: 2, score: 61 },
-  { name: 'I\'m not dead yet!', rank: 3, score: 58 },
-  { name: 'Rectal Tang', rank: 4, score: 57 },
-  { name: 'they\'re taking the hobbits to isengard!', rank: 5, score: 55 },
-  { name: 'Skintight Jorts', rank: 5, score: 55 },
-  { name: 'cloobney', rank: 7, score: 53 },
-  { name: 'An Armed Chilis Waitress', rank: 8, score: 48 },
-  { name: 'Ladies of Vostaten', rank: 9, score: 39 },
-  { name: 'The Fighting Farquaads', rank: 10, score: 22 },
+  { name: 'askybois.cum', rank: 1, score: 63 },
+  { name: 'Low Energy Life', rank: 2, score: 61 },
+  { name: 'bobert', rank: 3, score: 59 },
+  { name: 'Fuckin\' Geese', rank: 4, score: 50 },
+  { name: 'Fuck everything', rank: 5, score: 44 },
+  { name: 'Kelly & Trevor', rank: 6, score: 37 },
 ];
 
 export default scores;

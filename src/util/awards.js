@@ -19,6 +19,10 @@ export const bestNameAwards = [
     id: 'bn_4',
     name: 'Skintight Jorts',
   },
+  {
+    id: 'bn_5',
+    name: 'Fuck everything',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -47,9 +51,15 @@ export const bestAnswerAwards = [
     name: 'The Hubris of Man Incarnate',
   },
   {
-    id: 'ba_3',
+    id: 'ba_4',
     question: 'Two people invented calculus at the same time. Who?',
     answer: 'Newton and Bohrmann',
     name: 'An Armed Chili\'s Waitress',
+  },
+  {
+    id: 'ba_5',
+    question: 'What company did Michael J. Dupey found?',
+    answer: 'Pornhub',
+    name: 'askybois.cum',
   },
 ];
