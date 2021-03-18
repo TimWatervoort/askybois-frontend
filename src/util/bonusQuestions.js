@@ -26,7 +26,7 @@ const bonusQuestions = [
   },
   {
     id: 'bq_5',
-    content: 'Where is the Sea of Tranquility?',
+    content: 'What is the name for the world of men in Norse mythology?',
     date: '3/17',
   },
 ];
