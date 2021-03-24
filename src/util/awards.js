@@ -23,6 +23,10 @@ export const bestNameAwards = [
     id: 'bn_5',
     name: 'Fuck everything',
   },
+  {
+    id: 'bn_6',
+    name: 'concussion protocol',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -61,5 +65,11 @@ export const bestAnswerAwards = [
     question: 'What company did Michael J. Dupey found?',
     answer: 'Pornhub',
     name: 'askybois.cum',
+  },
+  {
+    id: 'ba_6',
+    question: 'In 2001, who became the most successful virtual band?',
+    answer: 'Miss Pigly and the Undying Cucumbers',
+    name: 'Green is a creative color',
   },
 ];

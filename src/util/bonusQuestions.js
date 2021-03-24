@@ -29,6 +29,11 @@ const bonusQuestions = [
     content: 'What is the name for the world of men in Norse mythology?',
     date: '3/17',
   },
+  {
+    id: 'bq_6',
+    content: 'Name any non-state territory of the United States that is not Puerto Rico.',
+    date: '3/24',
+  },
 ];
 
 export default bonusQuestions;
