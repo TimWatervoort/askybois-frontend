@@ -27,6 +27,10 @@ export const bestNameAwards = [
     id: 'bn_6',
     name: 'concussion protocol',
   },
+  {
+    id: 'bn_7',
+    name: 'Deus Ex Marinara',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -71,5 +75,11 @@ export const bestAnswerAwards = [
     question: 'In 2001, who became the most successful virtual band?',
     answer: 'Miss Pigly and the Undying Cucumbers',
     name: 'Green is a creative color',
+  },
+  {
+    id: 'ba_7',
+    question: 'What is the name of the ring of adamant?',
+    answer: 'Stroopwafel Ring, the one ring to get them all sticky, the one ring to sweet them, the one ring to glue them all, and in the darkness syrup them',
+    name: 'The Morally Reprehensible Couple',
   },
 ];

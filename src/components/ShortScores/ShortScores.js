@@ -12,12 +12,14 @@ const ShortScores = props => {
   <div className={`ask-bg-${mode} container-fluid text-center px-0`}>
     <div className='ask-nav text-white ask-rounds-bg py-3 mx-0'><h1>LAST WEEK'S HIGH SCORES</h1></div>
 
-    <div className='row pt-3 mx-0 my-5'>
-      <div className='col-md-6'>
+    <div className='row pt-3 mx-0 my-2'>
+      <div className='col'>
         <h3 className='ask-nav ask-gold-text'>BEST NAME</h3>
         <h3 className='ask-text'>{ latestName.name }</h3>
       </div>
-      <div className='col-md-6'>
+    </div>
+    <div className='row pt-3 mx-0 py-5'>
+      <div className='col'>
         <h3 className='ask-nav ask-gold-text'>BEST ANSWER</h3>
         <h3 className='ask-text'><span className='ask-nav'>Q: </span> { latestAnswer.question }</h3>
         <h3 className='ask-text'><span className='ask-nav'>A: </span> { latestAnswer.answer }</h3>

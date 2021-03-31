@@ -34,6 +34,11 @@ const bonusQuestions = [
     content: 'Name any non-state territory of the United States that is not Puerto Rico.',
     date: '3/24',
   },
+  {
+    id: 'bq_7',
+    content: 'Easter is celebrated on the first Sunday following the first full moon on or after what?',
+    date: '3/31',
+  },
 ];
 
 export default bonusQuestions;
