@@ -31,6 +31,10 @@ export const bestNameAwards = [
     id: 'bn_7',
     name: 'Deus Ex Marinara',
   },
+  {
+    id: 'bn_8',
+    name: 'But what IS metalcore?',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -81,5 +85,11 @@ export const bestAnswerAwards = [
     question: 'What is the name of the ring of adamant?',
     answer: 'Stroopwafel Ring, the one ring to get them all sticky, the one ring to sweet them, the one ring to glue them all, and in the darkness syrup them',
     name: 'The Morally Reprehensible Couple',
+  },
+  {
+    id: 'ba_8',
+    question: 'Clark Gregg plays what S.H.I.E.L.D.?',
+    answer: 'Xi Jinping',
+    name: 'Dennis',
   },
 ];
