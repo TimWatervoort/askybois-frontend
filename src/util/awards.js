@@ -88,7 +88,7 @@ export const bestAnswerAwards = [
   },
   {
     id: 'ba_8',
-    question: 'Clark Gregg plays what S.H.I.E.L.D.?',
+    question: 'Clark Gregg plays what S.H.I.E.L.D. agent?',
     answer: 'Xi Jinping',
     name: 'Dennis',
   },
