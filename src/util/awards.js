@@ -35,6 +35,10 @@ export const bestNameAwards = [
     id: 'bn_8',
     name: 'But what IS metalcore?',
   },
+  {
+    id: 'bn_9',
+    name: 'Best thing since sliced bees',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -91,5 +95,11 @@ export const bestAnswerAwards = [
     question: 'Clark Gregg plays what S.H.I.E.L.D. agent?',
     answer: 'Xi Jinping',
     name: 'Dennis',
+  },
+  {
+    id: 'ba_9',
+    question: 'Lookybois: Identify the movie poster (Goodfellas).',
+    answer: 'The Girl With a Garfield Tattoo',
+    name: 'Fig Newtonian Physics',
   },
 ];
