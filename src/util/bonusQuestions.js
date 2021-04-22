@@ -48,7 +48,12 @@ const bonusQuestions = [
     id: 'bq_9',
     content: 'What city, in the county of Surrey, do the Dursleys live in?',
     date: '4/14',
-  }
+  },
+  {
+    id: 'bq_10',
+    content: 'By what name is Samuel Clemens better known?',
+    date: '4/21',
+  },
 ];
 
 export default bonusQuestions;

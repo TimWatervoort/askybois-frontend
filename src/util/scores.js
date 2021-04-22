@@ -1,12 +1,14 @@
 const scores = [
-  { name: 'Fig Newtonian Physics', rank: 1, score: 77 },
-  { name: 'Ben', rank: 2, score: 65 },
-  { name: 'Newtons Secret 4th Law', rank: 3, score: 64 },
-  { name: 'Best thing since sliced bees', rank: 4, score: 63 },
-  { name: 'Baby Got Back Pain', rank: 5, score: 52 },
-  { name: 'that shoelace that just won\'t tie', rank: 6, score: 48 },
-  { name: 'Chills, aches, and pain, oh my!', rank: 7, score: 47 },
-  { name: 'dumdum want gumgum', rank: 8, score: 27 },
+  { name: '99 problems but a snitch ain\'t one', rank: 1, score: 111 },
+  { name: 'Rememballers, yer a lizard Harry', rank: 2, score: 92 },
+  { name: 'Drarry is the OTP', rank: 3, score: 76 },
+  { name: 'The Near Dead Dumbledores Army', rank: 4, score: 75 },
+  { name: 'At least America got rid of slaves before wizards', rank: 5, score: 68 },
+  { name: 'the Janitor of Azkaban', rank: 6, score: 55 },
+  { name: 'Dumbledore is a Head master', rank: 7, score: 39 },
+  { name: 'PS2 Hagrid', rank: 8, score: 30 },
+  { name: 'Fantastic Balls and Where to Torture Them', rank: 9, score: 7 },
+  { name: 'raven-raw me daddy', rank: 10, score: 0 },
 ];
 
 export default scores;

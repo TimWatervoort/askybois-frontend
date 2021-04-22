@@ -39,6 +39,10 @@ export const bestNameAwards = [
     id: 'bn_9',
     name: 'Best thing since sliced bees',
   },
+  {
+    id: 'bn_10',
+    name: 'Dumbledore is a Head master',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -101,5 +105,11 @@ export const bestAnswerAwards = [
     question: 'Lookybois: Identify the movie poster (Goodfellas).',
     answer: 'The Girl With a Garfield Tattoo',
     name: 'Fig Newtonian Physics',
+  },
+  {
+    id: 'ba_10',
+    question: 'Several best answers were awarded this day.',
+    answer: 'I couldn\'t decide on one, so three teams won:',
+    name: 'At least America got rid of slaves before wizards, PS2 Hagrid, and Fantastic Balls and Where to Torture Them',
   },
 ];
