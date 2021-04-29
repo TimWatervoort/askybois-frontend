@@ -43,6 +43,10 @@ export const bestNameAwards = [
     id: 'bn_10',
     name: 'Dumbledore is a Head master',
   },
+  {
+    id: 'bn_11',
+    name: 'the nuremberg smiles',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -111,5 +115,11 @@ export const bestAnswerAwards = [
     question: 'Several best answers were awarded this day.',
     answer: 'I couldn\'t decide on one, so three teams won:',
     name: 'At least America got rid of slaves before wizards, PS2 Hagrid, and Fantastic Balls and Where to Torture Them',
+  },
+  {
+    id: 'ba_11',
+    question: 'Which saint and Doctor of the Catholic Church is known for the Summa Theologiae?',
+    answer: 'Bernard, saint of wearing barrels on his neck for some reason',
+    name: 'the nuremberg smiles',
   },
 ];

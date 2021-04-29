@@ -54,6 +54,11 @@ const bonusQuestions = [
     content: 'By what name is Samuel Clemens better known?',
     date: '4/21',
   },
+  {
+    id: 'bq_11',
+    content: 'Who is Doug Bowser?',
+    date: '4/28',
+  },
 ];
 
 export default bonusQuestions;

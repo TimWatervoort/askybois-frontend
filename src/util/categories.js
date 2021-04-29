@@ -40,6 +40,8 @@ export const scienceCategories = [
   'cellular biology',
   'criminology',
   'motion',
+  'law',
+  'anatomy',
 ];
 
 export const entertainmentCategories = [
@@ -84,6 +86,8 @@ export const entertainmentCategories = [
   '2000s music',
   'the avengers',
   'strategy games',
+  'the dark knight trilogy',
+  'documentaries',
 ];
 
 export const historyGeographyCategories = [
@@ -130,6 +134,8 @@ export const historyGeographyCategories = [
   'the equator',
   'the roaring twenties',
   'deserts',
+  'mongolia',
+  'feudalism',
 ];
 
 export const foodDrinkCategories = [
@@ -172,6 +178,8 @@ export const foodDrinkCategories = [
   'burgers',
   'white wine',
   'pancakes',
+  'seafood',
+  'soup',
 ];
 
 export const randomCategories = [
@@ -216,4 +224,6 @@ export const randomCategories = [
   'stimulants',
   'fire',
   'sieges',
+  'streets',
+  'motorcycles',
 ];
