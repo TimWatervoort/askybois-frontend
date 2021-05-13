@@ -47,6 +47,10 @@ export const bestNameAwards = [
     id: 'bn_11',
     name: 'the nuremberg smiles',
   },
+  {
+    id: 'bn_12',
+    name: 'Bee soup on aisle 7',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -121,5 +125,11 @@ export const bestAnswerAwards = [
     question: 'Which saint and Doctor of the Catholic Church is known for the Summa Theologiae?',
     answer: 'Bernard, saint of wearing barrels on his neck for some reason',
     name: 'the nuremberg smiles',
+  },
+  {
+    id: 'ba_12',
+    question: 'What religious class fell between the nobility and the peasantry as far as their social standing?',
+    answer: 'Priesty bois',
+    name: 'Bee Soup on Aisle 7',
   },
 ];

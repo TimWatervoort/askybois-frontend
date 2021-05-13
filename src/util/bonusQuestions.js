@@ -59,6 +59,11 @@ const bonusQuestions = [
     content: 'Who is Doug Bowser?',
     date: '4/28',
   },
+  {
+    id: 'bq_12',
+    content: 'How many champions (within 5) are there with the release of Gwen?',
+    date: '5/12',
+  },
 ];
 
 export default bonusQuestions;
