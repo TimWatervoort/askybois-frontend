@@ -42,6 +42,7 @@ export const scienceCategories = [
   'motion',
   'law',
   'anatomy',
+  'lasers',
 ];
 
 export const entertainmentCategories = [
@@ -88,6 +89,7 @@ export const entertainmentCategories = [
   'strategy games',
   'the dark knight trilogy',
   'documentaries',
+  'disaster movies',
 ];
 
 export const historyGeographyCategories = [
@@ -136,6 +138,7 @@ export const historyGeographyCategories = [
   'deserts',
   'mongolia',
   'feudalism',
+  'the space race',
 ];
 
 export const foodDrinkCategories = [
@@ -180,6 +183,7 @@ export const foodDrinkCategories = [
   'pancakes',
   'seafood',
   'soup',
+  'game',
 ];
 
 export const randomCategories = [
@@ -226,4 +230,5 @@ export const randomCategories = [
   'sieges',
   'streets',
   'motorcycles',
+  'tools',
 ];

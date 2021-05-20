@@ -51,6 +51,10 @@ export const bestNameAwards = [
     id: 'bn_12',
     name: 'Bee soup on aisle 7',
   },
+  {
+    id: 'bn_13',
+    name: 'Yasuo/Yone Fanfic Emporium',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -131,5 +135,11 @@ export const bestAnswerAwards = [
     question: 'What religious class fell between the nobility and the peasantry as far as their social standing?',
     answer: 'Priesty bois',
     name: 'Bee Soup on Aisle 7',
+  },
+  {
+    id: 'ba_13',
+    question: 'What is a Shurima Shuffle',
+    answer: 'When one nearly drops their Shwarma and has to "slide to the right" to dodge the falling tzatziki',
+    name: 'LoL was ruined when they took away hybrid Kayle',
   },
 ];

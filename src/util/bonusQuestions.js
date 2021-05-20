@@ -64,6 +64,11 @@ const bonusQuestions = [
     content: 'How many champions (within 5) are there with the release of Gwen?',
     date: '5/12',
   },
+  {
+    id: 'bq_13',
+    content: 'What constellation is the Big Dipper part of?',
+    date: '5/19',
+  },
 ];
 
 export default bonusQuestions;

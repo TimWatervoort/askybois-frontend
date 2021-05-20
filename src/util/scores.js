@@ -1,12 +1,11 @@
 const scores = [
-  { name: 'Nathan', rank: 1, score: 66 },
-  { name: 'Logan', rank: 2, score: 61 },
-  { name: 'that sweet greydwarf drop', rank: 3, score: 57 },
-  { name: 'Spongeknob and Spankton duke it out at the Cum Bucket', rank: 4, score: 56 },
-  { name: 'Not enough grey matter', rank: 5, score: 51 },
-  { name: '<blank>', rank: 6, score: 46 },
-  { name: 'Bee soup on aisle 7', rank: 7, score: 41 },
-  { name: 'i hAVe a pLaN: atTaCk', rank: 8, score: 25 },
+  { name: 'Yasuo/Yone Fanfic Emporium', rank: 1, score: 105 },
+  { name: 'the r/leagueoflegends hivemind', rank: 2, score: 93 },
+  { name: '200+ years of game design experience', rank: 3, score: 71 },
+  { name: 'leaaegue of negligibles', rank: 4, score: 63 },
+  { name: 'fizzonyourjayce', rank: 5, score: 52 },
+  { name: 'Bill Clinton\'s Dried Powdery Semen', rank: 6, score: 35 },
+  { name: 'LoL was ruined when they took away hybrid Kayle', rank: 7, score: 8 },
 ];
 
 export default scores;
