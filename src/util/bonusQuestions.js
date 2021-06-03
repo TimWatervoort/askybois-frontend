@@ -69,6 +69,11 @@ const bonusQuestions = [
     content: 'What constellation is the Big Dipper part of?',
     date: '5/19',
   },
+  {
+    id: 'bq_14',
+    content: 'What’s the order of colors in a rainbow?',
+    date: '6/2',
+  },
 ];
 
 export default bonusQuestions;

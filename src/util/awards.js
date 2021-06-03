@@ -55,6 +55,10 @@ export const bestNameAwards = [
     id: 'bn_13',
     name: 'Yasuo/Yone Fanfic Emporium',
   },
+  {
+    id: 'bn_14',
+    name: 'the nip slip that ended an era',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -141,5 +145,11 @@ export const bestAnswerAwards = [
     question: 'What is a Shurima Shuffle',
     answer: 'When one nearly drops their Shwarma and has to "slide to the right" to dodge the falling tzatziki',
     name: 'LoL was ruined when they took away hybrid Kayle',
+  },
+  {
+    id: 'ba_14',
+    question: 'In most of the English-speaking world, ‘venison’ refers to elk or deer meat. What animal’s meat does it refer to in South Africa?',
+    answer: 'People from Venice',
+    name: 'The digiorno man',
   },
 ];
