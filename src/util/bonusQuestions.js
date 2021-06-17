@@ -74,6 +74,11 @@ const bonusQuestions = [
     content: 'What’s the order of colors in a rainbow?',
     date: '6/2',
   },
+  {
+    id: 'bq_15',
+    content: 'What Greek hero is also JavaScript and detergent?',
+    date: '6/16',
+  },
 ];
 
 export default bonusQuestions;
