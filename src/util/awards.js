@@ -59,6 +59,10 @@ export const bestNameAwards = [
     id: 'bn_14',
     name: 'the nip slip that ended an era',
   },
+  {
+    id: 'bn_15',
+    name: 'Canker sores are worse than the Cold War',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -151,5 +155,11 @@ export const bestAnswerAwards = [
     question: 'In most of the English-speaking world, ‘venison’ refers to elk or deer meat. What animal’s meat does it refer to in South Africa?',
     answer: 'People from Venice',
     name: 'The digiorno man',
+  },
+  {
+    id: 'ba_15',
+    question: 'What company, named after its flagship game, has become a successful creator of party games?',
+    answer: 'Pornhub',
+    name: 'Logan',
   },
 ];

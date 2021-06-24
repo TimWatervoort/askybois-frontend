@@ -79,6 +79,11 @@ const bonusQuestions = [
     content: 'What Greek hero is also JavaScript and detergent?',
     date: '6/16',
   },
+  {
+    id: 'bq_16',
+    content: 'What Elvish port city do ships depart from for Aman, or the Blessed Lands?',
+    date: '6/23',
+  },
 ];
 
 export default bonusQuestions;
