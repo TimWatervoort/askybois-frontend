@@ -84,6 +84,11 @@ const bonusQuestions = [
     content: 'What Elvish port city do ships depart from for Aman, or the Blessed Lands?',
     date: '6/23',
   },
+  {
+    id: 'bq_17',
+    content: 'Commander Shepard is the main character of what sci-fi video game franchise?',
+    date: '6/23',
+  },
 ];
 
 export default bonusQuestions;

@@ -1,10 +1,11 @@
 const scores = [
-  { name: 'Canker sores are worse than the Cold War', rank: 1, score: 51 },
-  { name: 'Every Bunny Was Kung-Fu Fighting', rank: 2, score: 45 },
-  { name: 'Logan', rank: 3, score: 44 },
-  { name: 'Poisonous twins and the couch potato', rank: 4, score: 39 },
-  { name: 'clan butthead', rank: 5, score: 22 },
-  { name: 'High Jazz', rank: 6, score: 14 },
+  { name: 'Echthelion of the Fountain Pen', rank: 1, score: 93 },
+  { name: 'Viggo\'s Broken Toe', rank: 2, score: 83 },
+  { name: 'ew I stepped in Oliphaunt Poo', rank: 3, score: 70 },
+  { name: 'Gimli, the son of Gimli, the son of Gimli...', rank: 4, score: 60 },
+  { name: 'Lord of the Rings Needs No Titties', rank: 5, score: 39 },
+  { name: 'Gandalf the Kind of Grey but Kind of Green sometimes in the right light', rank: 5, score: 39 },
+  { name: 'The Silly Marillion', rank: 6, score: 3 },
 ];
 
 export default scores;

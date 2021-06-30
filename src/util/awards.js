@@ -63,6 +63,10 @@ export const bestNameAwards = [
     id: 'bn_15',
     name: 'Canker sores are worse than the Cold War',
   },
+  {
+    id: 'bn_16',
+    name: 'Gandalf the Kind of Grey but Kind of Green sometimes in the right light',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -161,5 +165,11 @@ export const bestAnswerAwards = [
     question: 'What company, named after its flagship game, has become a successful creator of party games?',
     answer: 'Pornhub',
     name: 'Logan',
+  },
+  {
+    id: 'ba_16',
+    question: 'What pass leads to Shelob\'s lair?',
+    answer: 'the one with a big spider in it',
+    name: 'Gimli, the son of Gimli, the son of Gimli...',
   },
 ];
