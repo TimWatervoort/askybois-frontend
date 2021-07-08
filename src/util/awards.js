@@ -67,6 +67,10 @@ export const bestNameAwards = [
     id: 'bn_16',
     name: 'Gandalf the Kind of Grey but Kind of Green sometimes in the right light',
   },
+  {
+    id: 'bn_17',
+    name: 'My mind is telling me no but my body is telling me yes',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -171,5 +175,11 @@ export const bestAnswerAwards = [
     question: 'What pass leads to Shelob\'s lair?',
     answer: 'the one with a big spider in it',
     name: 'Gimli, the son of Gimli, the son of Gimli...',
+  },
+  {
+    id: 'ba_17',
+    question: 'Before Wikipedia became popular, what product did Microsoft offer as a digital encyclopedia?',
+    answer: 'Clippy',
+    name: 'My mind is telling me no but my body is telling me yes',
   },
 ];

@@ -87,8 +87,13 @@ const bonusQuestions = [
   {
     id: 'bq_17',
     content: 'Commander Shepard is the main character of what sci-fi video game franchise?',
-    date: '6/23',
+    date: '6/30',
   },
+  {
+    id: 'bq_18',
+    content: 'A former international chain of stores now only has one location left, in Bend, OR. What store?',
+    date: '7/7',
+  }
 ];
 
 export default bonusQuestions;
