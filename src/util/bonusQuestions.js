@@ -93,7 +93,12 @@ const bonusQuestions = [
     id: 'bq_18',
     content: 'A former international chain of stores now only has one location left, in Bend, OR. What store?',
     date: '7/7',
-  }
+  },
+  {
+    id: 'bq_19',
+    content: 'What Pepsi-owned product accounts for 75% of the U.S. market share in sports drinks?',
+    date: '8/24',
+  },
 ];
 
 export default bonusQuestions;
