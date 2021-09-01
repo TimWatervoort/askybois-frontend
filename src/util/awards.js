@@ -71,6 +71,10 @@ export const bestNameAwards = [
     id: 'bn_17',
     name: 'My mind is telling me no but my body is telling me yes',
   },
+  {
+    id: 'bn_18',
+    name: 'Unko Kunko Funko Pop',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -181,5 +185,11 @@ export const bestAnswerAwards = [
     question: 'Before Wikipedia became popular, what product did Microsoft offer as a digital encyclopedia?',
     answer: 'Clippy',
     name: 'My mind is telling me no but my body is telling me yes',
+  },
+  {
+    id: 'ba_18',
+    question: 'What source of power does Loki use to transport the Chitauri',
+    answer: 'Dick',
+    name: 'the team teeming with total tubularity',
   },
 ];

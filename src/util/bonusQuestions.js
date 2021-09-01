@@ -99,6 +99,11 @@ const bonusQuestions = [
     content: 'What Pepsi-owned product accounts for 75% of the U.S. market share in sports drinks?',
     date: '8/24',
   },
+  {
+    id: 'bq_20',
+    content: 'What’s the capital of Alaska?',
+    date: '8/31',
+  },
 ];
 
 export default bonusQuestions;
