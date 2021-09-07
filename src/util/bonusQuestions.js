@@ -104,6 +104,11 @@ const bonusQuestions = [
     content: 'What’s the capital of Alaska?',
     date: '8/31',
   },
+  {
+    id: 'bq_21',
+    content: 'What programming language is named after a sketch comedy group?',
+    date: '8/31',
+  },
 ];
 
 export default bonusQuestions;

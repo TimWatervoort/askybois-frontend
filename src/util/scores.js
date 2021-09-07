@@ -1,12 +1,12 @@
 const scores = [
-  { name: 'A Tennessee based law firm', rank: 1, score: 83 },
-  { name: 'Is it cheating to feed our almost baby spice to give us trivia answers?', rank: 1, score: 83 },
-  { name: 'Unko Kunko Funko Pop', rank: 3, score: 80 },
-  { name: 'The Coomslayer', rank: 4, score: 75 },
-  { name: 'Live Free or Pie', rank: 5, score: 68 },
-  { name: 'Phil\'s Demigods', rank: 6, score: 64 },
-  { name: 'the team teeming with total tubularity', rank: 7, score: 36 },
-  { name: 'From the fire to the pan', rank: 8, score: 29 },
+  { name: 'Arachno Communism', rank: 1, score: 73 },
+  { name: 'bananas are nature’s peel-able penises', rank: 1, score: 65 },
+  { name: 'Babymagheddon, Childnarok, the End Time are HERE!', rank: 3, score: 61 },
+  { name: 'The Lonely Booger', rank: 4, score: 60 },
+  { name: 'Look I can make Christa turn orange', rank: 4, score: 60 },
+  { name: 'Soupless Bottoms', rank: 6, score: 59 },
+  { name: 'I used all my creative energy last week', rank: 7, score: 50 },
+  { name: 'Ben', rank: 8, score: 47 },
 ];
 
 export default scores;

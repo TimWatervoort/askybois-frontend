@@ -75,6 +75,10 @@ export const bestNameAwards = [
     id: 'bn_18',
     name: 'Unko Kunko Funko Pop',
   },
+  {
+    id: 'bn_19',
+    name: 'bananas are nature’s peel-able penises',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -188,8 +192,14 @@ export const bestAnswerAwards = [
   },
   {
     id: 'ba_18',
-    question: 'What source of power does Loki use to transport the Chitauri',
+    question: 'What source of power does Loki use to transport the Chitauri?',
     answer: 'Dick',
     name: 'the team teeming with total tubularity',
+  },
+  {
+    id: 'ba_19',
+    question: 'Who is John Ratzenberger and why is he special in Pixar movies?',
+    answer: 'He\'s always in the pipes, listening, murmuring.',
+    name: 'Ben',
   },
 ];
