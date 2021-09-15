@@ -79,6 +79,10 @@ export const bestNameAwards = [
     id: 'bn_19',
     name: 'bananas are nature’s peel-able penises',
   },
+  {
+    id: 'bn_20',
+    name: 'Jabberhwhackin\' It',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -201,5 +205,11 @@ export const bestAnswerAwards = [
     question: 'Who is John Ratzenberger and why is he special in Pixar movies?',
     answer: 'He\'s always in the pipes, listening, murmuring.',
     name: 'Ben',
+  },
+  {
+    id: 'ba_20',
+    question: 'What ape, along with the chimpanzee, is the closest relative to humans?',
+    answer: 'Trevor is closest to orangutans',
+    name: 'soggy forgotten leftovers',
   },
 ];

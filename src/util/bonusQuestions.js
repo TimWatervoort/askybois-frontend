@@ -107,7 +107,12 @@ const bonusQuestions = [
   {
     id: 'bq_21',
     content: 'What programming language is named after a sketch comedy group?',
-    date: '8/31',
+    date: '9/7',
+  },
+  {
+    id: 'bq_22',
+    content: 'What kind of writing paper has lines as a guide?',
+    date: '9/14',
   },
 ];
 
