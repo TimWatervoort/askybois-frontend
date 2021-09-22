@@ -83,6 +83,10 @@ export const bestNameAwards = [
     id: 'bn_20',
     name: 'Jabberhwhackin\' It',
   },
+  {
+    id: 'bn_21',
+    name: 'being of unimaginable eldritch horror',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -211,5 +215,11 @@ export const bestAnswerAwards = [
     question: 'What ape, along with the chimpanzee, is the closest relative to humans?',
     answer: 'Trevor is closest to orangutans',
     name: 'soggy forgotten leftovers',
+  },
+  {
+    id: 'ba_21',
+    question: 'What is the smallest citrus fruit?',
+    answer: 'Kumquat, as in "toss me a kummy"',
+    name: 'Clammy Salmon Cannon',
   },
 ];

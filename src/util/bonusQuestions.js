@@ -114,6 +114,11 @@ const bonusQuestions = [
     content: 'What kind of writing paper has lines as a guide?',
     date: '9/14',
   },
+  {
+    id: 'bq_23',
+    content: 'What name is often given to the primordial female demon?',
+    date: '9/21',
+  },
 ];
 
 export default bonusQuestions;

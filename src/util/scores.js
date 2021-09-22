@@ -1,9 +1,11 @@
 const scores = [
-  { name: 'Jabberhwhackin\' it', rank: 1, score: 80.7 },
-  { name: 'Soggy for "Soggy Forgotten Leftovers"', rank: 2, score: 62 },
-  { name: 'Tweedle Dum and Tweedle Dummer', rank: 3, score: 57 },
-  { name: 'The Hottest mess', rank: 4, score: 55.4 },
-  { name: 'soggy forgotten leftovers', rank: 4, score: 37 },
+  { name: 'I buried a man alive for a cask of natty', rank: 1, score: 67 },
+  { name: 'The ol\' rub&tug excuse', rank: 2, score: 61 },
+  { name: 'That\'s a Fat Rip', rank: 3, score: 58 },
+  { name: 'The spelunking spelunkers who each ate a whole clove of raw garlic and now their throat hurts', rank: 3, score: 58 },
+  { name: 'Clammy Salmon Cannon', rank: 4, score: 45 },
+  { name: 'Team Stress', rank: 5, score: 35 },
+  { name: 'being of unimaginable eldritch horror', rank: 6, score: 33 },
 ];
 
 export default scores;
