@@ -87,6 +87,10 @@ export const bestNameAwards = [
     id: 'bn_21',
     name: 'being of unimaginable eldritch horror',
   },
+  {
+    id: 'bn_22',
+    name: 'A napple a day keeps the doctor away',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -221,5 +225,11 @@ export const bestAnswerAwards = [
     question: 'What is the smallest citrus fruit?',
     answer: 'Kumquat, as in "toss me a kummy"',
     name: 'Clammy Salmon Cannon',
+  },
+  {
+    id: 'ba_22',
+    question: 'What two movies feature Russell Brand as Aldous Snow?',
+    answer: 'high school musical II (Czech version), and Band of Brothers On Ice!',
+    name: 'chilliam bakedspeare',
   },
 ];

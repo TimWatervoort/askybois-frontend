@@ -1,11 +1,10 @@
 const scores = [
-  { name: 'I buried a man alive for a cask of natty', rank: 1, score: 67 },
-  { name: 'The ol\' rub&tug excuse', rank: 2, score: 61 },
-  { name: 'That\'s a Fat Rip', rank: 3, score: 58 },
-  { name: 'The spelunking spelunkers who each ate a whole clove of raw garlic and now their throat hurts', rank: 3, score: 58 },
-  { name: 'Clammy Salmon Cannon', rank: 4, score: 45 },
-  { name: 'Team Stress', rank: 5, score: 35 },
-  { name: 'being of unimaginable eldritch horror', rank: 6, score: 33 },
+  { name: 'Ben', rank: 1, score: 61 },
+  { name: 'chilliam bakedspeare', rank: 2, score: 56 },
+  { name: 'Oh I have a bad eel', rank: 3, score: 55 },
+  { name: 'Tame Im-boke-a', rank: 4, score: 51 },
+  { name: 'A napple a day keeps the doctor away', rank: 5, score: 40 },
+  { name: 'Kelly & Trevor', rank: 6, score: 18 },
 ];
 
 export default scores;

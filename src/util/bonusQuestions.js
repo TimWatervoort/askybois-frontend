@@ -119,6 +119,11 @@ const bonusQuestions = [
     content: 'What name is often given to the primordial female demon?',
     date: '9/21',
   },
+  {
+    id: 'bq_24',
+    content: 'Oktoberfest is traditionally held in what German city?',
+    date: '10/5',
+  },
 ];
 
 export default bonusQuestions;
