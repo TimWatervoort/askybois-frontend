@@ -1,10 +1,10 @@
 const scores = [
-  { name: 'Ben', rank: 1, score: 61 },
-  { name: 'chilliam bakedspeare', rank: 2, score: 56 },
-  { name: 'Oh I have a bad eel', rank: 3, score: 55 },
-  { name: 'Tame Im-boke-a', rank: 4, score: 51 },
-  { name: 'A napple a day keeps the doctor away', rank: 5, score: 40 },
-  { name: 'Kelly & Trevor', rank: 6, score: 18 },
+  { name: 'Sergeant Kunko\'s Lonely Hearts Club Band', rank: 1, score: 66 },
+  { name: 'Nathan', rank: 2, score: 58 },
+  { name: 'Sluts for Simps', rank: 3, score: 55 },
+  { name: 'Huevos Banditos', rank: 4, score: 44 },
+  { name: 'social ditto', rank: 5, score: 2740 },
+  { name: 'Insomniatic Cryptids', rank: 6, score: 24 },
 ];
 
 export default scores;

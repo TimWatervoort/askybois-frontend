@@ -91,6 +91,10 @@ export const bestNameAwards = [
     id: 'bn_22',
     name: 'A napple a day keeps the doctor away',
   },
+  {
+    id: 'bn_23',
+    name: 'Insomniatic Cryptids',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -228,6 +232,12 @@ export const bestAnswerAwards = [
   },
   {
     id: 'ba_22',
+    question: 'What two movies feature Russell Brand as Aldous Snow?',
+    answer: 'high school musical II (Czech version), and Band of Brothers On Ice!',
+    name: 'chilliam bakedspeare',
+  },
+  {
+    id: 'ba_23',
     question: 'What two movies feature Russell Brand as Aldous Snow?',
     answer: 'high school musical II (Czech version), and Band of Brothers On Ice!',
     name: 'chilliam bakedspeare',

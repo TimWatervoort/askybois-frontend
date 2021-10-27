@@ -124,6 +124,11 @@ const bonusQuestions = [
     content: 'Oktoberfest is traditionally held in what German city?',
     date: '10/5',
   },
+  {
+    id: 'bq_25',
+    content: 'What scary children’s book series was written by Alvin Schwartz?',
+    date: '10/26',
+  },
 ];
 
 export default bonusQuestions;
