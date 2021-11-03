@@ -129,6 +129,11 @@ const bonusQuestions = [
     content: 'What scary children’s book series was written by Alvin Schwartz?',
     date: '10/26',
   },
+  {
+    id: 'bq_26',
+    content: 'What’s the only Minecraft enemy that can pick up blocks?',
+    date: '11/2',
+  },
 ];
 
 export default bonusQuestions;

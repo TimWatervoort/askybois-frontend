@@ -95,6 +95,10 @@ export const bestNameAwards = [
     id: 'bn_23',
     name: 'Insomniatic Cryptids',
   },
+  {
+    id: 'bn_24',
+    name: 'A corpse accelerating forward at frightening speeds',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -241,5 +245,11 @@ export const bestAnswerAwards = [
     question: 'What two movies feature Russell Brand as Aldous Snow?',
     answer: 'high school musical II (Czech version), and Band of Brothers On Ice!',
     name: 'chilliam bakedspeare',
+  },
+  {
+    id: 'ba_24',
+    question: 'Who are the four crown princes of hell?',
+    answer: 'Asmodaeus, Mephisto, Justin Bieber, Tom Hanks',
+    name: 'Grumpkin\'s Smelly Dumpkin',
   },
 ];
