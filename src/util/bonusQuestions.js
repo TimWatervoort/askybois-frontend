@@ -134,6 +134,11 @@ const bonusQuestions = [
     content: 'What’s the only Minecraft enemy that can pick up blocks?',
     date: '11/2',
   },
+  {
+    id: 'bq_27',
+    content: 'What two months were named after Roman emperors?',
+    date: '11/9',
+  },
 ];
 
 export default bonusQuestions;

@@ -99,6 +99,10 @@ export const bestNameAwards = [
     id: 'bn_24',
     name: 'A corpse accelerating forward at frightening speeds',
   },
+  {
+    id: 'bn_25',
+    name: 'BDSM - Brogurt, Decriminalization, Sounding, Meat/Math',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -251,5 +255,11 @@ export const bestAnswerAwards = [
     question: 'Who are the four crown princes of hell?',
     answer: 'Asmodaeus, Mephisto, Justin Bieber, Tom Hanks',
     name: 'Grumpkin\'s Smelly Dumpkin',
+  },
+  {
+    id: 'ba_25',
+    question: 'What tool is Dremel known for?',
+    answer: 'spinning bore kind of thing. like for grinding out one\'s teeth',
+    name: 'Spiders? Yeah probably...',
   },
 ];
