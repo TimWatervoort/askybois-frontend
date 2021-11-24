@@ -103,6 +103,10 @@ export const bestNameAwards = [
     id: 'bn_25',
     name: 'BDSM - Brogurt, Decriminalization, Sounding, Meat/Math',
   },
+  {
+    id: 'bn_26',
+    name: 'Breaking the Sounding Barrier',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -261,5 +265,11 @@ export const bestAnswerAwards = [
     question: 'What tool is Dremel known for?',
     answer: 'spinning bore kind of thing. like for grinding out one\'s teeth',
     name: 'Spiders? Yeah probably...',
+  },
+  {
+    id: 'ba_26',
+    question: 'Frederick the Great wqs king of what country that doesn\'t exist anymore?',
+    answer: 'Finland, because Finland doesn\'t exist.',
+    name: 'a sudden moment of deep frustration',
   },
 ];

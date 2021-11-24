@@ -139,6 +139,11 @@ const bonusQuestions = [
     content: 'What two months were named after Roman emperors?',
     date: '11/9',
   },
+  {
+    id: 'bq_28',
+    content: 'The evergreen shrub Vaccinium oxycoccus produces what acidic fruit?',
+    date: '11/23',
+  },
 ];
 
 export default bonusQuestions;
