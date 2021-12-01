@@ -107,6 +107,10 @@ export const bestNameAwards = [
     id: 'bn_26',
     name: 'Breaking the Sounding Barrier',
   },
+  {
+    id: 'bn_27',
+    name: 'mischievous eels',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -271,5 +275,11 @@ export const bestAnswerAwards = [
     question: 'Frederick the Great wqs king of what country that doesn\'t exist anymore?',
     answer: 'Finland, because Finland doesn\'t exist.',
     name: 'a sudden moment of deep frustration',
+  },
+  {
+    id: 'ba_27',
+    question: 'How do bees communicate?',
+    answer: 'bzzzzfeed',
+    name: 'Strutting our Stuffing',
   },
 ];

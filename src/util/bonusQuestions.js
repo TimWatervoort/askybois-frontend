@@ -144,6 +144,11 @@ const bonusQuestions = [
     content: 'The evergreen shrub Vaccinium oxycoccus produces what acidic fruit?',
     date: '11/23',
   },
+  {
+    id: 'bq_29',
+    content: 'What colors are on the Irish flag?',
+    date: '11/30',
+  },
 ];
 
 export default bonusQuestions;
