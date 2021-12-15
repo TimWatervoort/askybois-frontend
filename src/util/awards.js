@@ -111,6 +111,10 @@ export const bestNameAwards = [
     id: 'bn_27',
     name: 'mischievous eels',
   },
+  {
+    id: 'bn_28',
+    name: 'Less eyes makes a cat more dog',
+  },
 ];
 
 export const bestAnswerAwards = [
@@ -281,5 +285,11 @@ export const bestAnswerAwards = [
     question: 'How do bees communicate?',
     answer: 'bzzzzfeed',
     name: 'Strutting our Stuffing',
+  },
+  {
+    id: 'ba_28',
+    question: 'What\'s another name for a penny whistle?',
+    answer: 'A clean butthole',
+    name: 'I drink my hot coffee through a straw',
   },
 ];

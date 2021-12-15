@@ -1,10 +1,9 @@
 const scores = [
-  { name: 'Strutting Our Stuffing', rank: 1, score: 83 },
-  { name: 'Bring Back Twisted Treeline', rank: 2, score: 81 },
-  { name: 'the lonely lass', rank: 3, score: 74 },
-  { name: 'Thanks... I hate this name', rank: 4, score: 58 },
-  { name: 'mischievous eels', rank: 5, score: 41 },
-  { name: 'sauceless argument', rank: 6, score: 25 },
+  { name: 'Fat Ass Eclairs', rank: 1, score: 56 },
+  { name: 'Drink your water, kids!', rank: 2, score: 55 },
+  { name: 'I drink my hot coffee through a straw', rank: 2, score: 55 },
+  { name: 'Less eyes makes a cat more dog', rank: 3, score: 51 },
+  { name: 'League of Losers', rank: 5, score: 40 },
 ];
 
 export default scores;

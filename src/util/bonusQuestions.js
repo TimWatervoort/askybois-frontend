@@ -149,6 +149,11 @@ const bonusQuestions = [
     content: 'What colors are on the Irish flag?',
     date: '11/30',
   },
+  {
+    id: 'bq_30',
+    content: 'The shore of what salty lake is the lowest land-based point on Earth?',
+    date: '12/14',
+  },
 ];
 
 export default bonusQuestions;
