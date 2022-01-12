@@ -1,9 +1,11 @@
 const scores = [
-  { name: 'Fat Ass Eclairs', rank: 1, score: 56 },
-  { name: 'Drink your water, kids!', rank: 2, score: 55 },
-  { name: 'I drink my hot coffee through a straw', rank: 2, score: 55 },
-  { name: 'Less eyes makes a cat more dog', rank: 3, score: 51 },
-  { name: 'League of Losers', rank: 5, score: 40 },
+  { name: 'the sounding of music', rank: 1, score: 89 },
+  { name: 'the senior vice president of synergy', rank: 2, score: 72 },
+  { name: 'The Gutter Sluts', rank: 3, score: 53 },
+  { name: 'Biden Inflation Fetish', rank: 4, score: 50 },
+  { name: 'the rare and elusive blue handed boobie', rank: 5, score: 42 },
+  { name: 'Two is better than One', rank: 6, score: 35 },
+  { name: 'Adam', rank: 7, score: 29 },
 ];
 
 export default scores;

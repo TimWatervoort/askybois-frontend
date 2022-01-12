@@ -154,6 +154,11 @@ const bonusQuestions = [
     content: 'The shore of what salty lake is the lowest land-based point on Earth?',
     date: '12/14',
   },
+  {
+    id: 'bq_31',
+    content: 'What color has hex value #FFFFFF?',
+    date: '1/11',
+  },
 ];
 
 export default bonusQuestions;
