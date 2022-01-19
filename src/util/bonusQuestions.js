@@ -159,6 +159,11 @@ const bonusQuestions = [
     content: 'What color has hex value #FFFFFF?',
     date: '1/11',
   },
+  {
+    id: 'bq_32',
+    content: 'The moons of what planet are mostly named after Shakespeare characters?',
+    date: '1/18',
+  },
 ];
 
 export default bonusQuestions;
