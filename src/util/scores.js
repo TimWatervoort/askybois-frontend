@@ -1,12 +1,11 @@
 const scores = [
-  { name: 'The Theatre of Marinara Sauce I Promise It\'s Just Marinara Sauce', rank: 1, score: 72 },
-  { name: 'Dextrous as a watchmaker\'s hands', rank: 2, score: 67 },
-  { name: 'I see your BM', rank: 3, score: 50 },
-  { name: 'general kenobi', rank: 3, score: 50 },
-  { name: 'deepthroat plantains', rank: 5, score: 44 },
-  { name: '2020-too the revengencing', rank: 6, score: 40 },
-  { name: 'don\'t fear the griefer', rank: 7, score: 32 },
-  { name: 'Sammi', rank: 8, score: 1 },
+  { name: 'Bottomless Gamer Girl Bathwater Gargling, New from Taco Belle', rank: 1, score: 81 },
+  { name: 'Gilbert Gottfried\'s ASMR sex noises', rank: 2, score: 72 },
+  { name: 'Where the Hell Have You Been, Banana Loca?', rank: 3, score: 53 },
+  { name: 'CHICKEN PARMMM!!', rank: 3, score: 46 },
+  { name: 'sally lightfoot\'s pinchy-pincers', rank: 5, score: 42 },
+  { name: 'a single pair of buttocks', rank: 6, score: 38 },
+  { name: 'Nathan', rank: 7, score: 25 },
 ];
 
 export default scores;
