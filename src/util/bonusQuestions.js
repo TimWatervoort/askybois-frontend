@@ -169,6 +169,11 @@ const bonusQuestions = [
     content: 'What food delivery service is the most widely available? It operates on 6 continents.',
     date: '3/8',
   },
+  {
+    id: 'bq_34',
+    content: 'According to Gallup, what is the most LGBT+ friendly country in the world?',
+    date: '3/29',
+  },
 ];
 
 export default bonusQuestions;
