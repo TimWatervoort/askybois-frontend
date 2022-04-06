@@ -174,6 +174,11 @@ const bonusQuestions = [
     content: 'According to Gallup, what is the most LGBT+ friendly country in the world?',
     date: '3/29',
   },
+  {
+    id: 'bq_35',
+    content: 'What is Activision\'s best-selling video game franchise?',
+    date: '4/5',
+  },
 ];
 
 export default bonusQuestions;
