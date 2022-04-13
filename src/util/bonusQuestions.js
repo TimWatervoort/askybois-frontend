@@ -179,6 +179,11 @@ const bonusQuestions = [
     content: 'What is Activision\'s best-selling video game franchise?',
     date: '4/5',
   },
+  {
+    id: 'bq_36',
+    content: 'Two railroad companies dominate almost all of the railway lines in the US. Name either.',
+    date: '4/12',
+  },
 ];
 
 export default bonusQuestions;
