@@ -184,6 +184,11 @@ const bonusQuestions = [
     content: 'Two railroad companies dominate almost all of the railway lines in the US. Name either.',
     date: '4/12',
   },
+  {
+    id: 'bq_37',
+    content: 'What Adobe suite program is best for creating infinitely scalable vector graphics?',
+    date: '5/10',
+  },
 ];
 
 export default bonusQuestions;
